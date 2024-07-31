@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./Styles/styles.css">
+</head>
+<body>
+    <div id="container">
+        <h1>Create Account</h1>
+
+        <form>
+            <div class="combine">
+                <div >
+                    <label class="lbl" for="fname">First name*</label><br>
+                    <input id="fname" type="text" placeholder="enter your first name" class="len">
+                </div>
+                <div>
+                    <label class="lbl" for="lname">Last name*</label><br>
+                    <input id="lname" type="text" placeholder="enter your last name" class="len">
+                </div>
+              
+            </div>
+            <div class="email">
+            <label for="mail_id" class="lbl">Email*</label><br>
+            <input type="email" id="mail_id" placeholder="enter your email">
+             </div>
+            <div class="combine">
+                <div>
+                    <label for="pwd" class="lbl">Password*</label><br>
+                    <input type="password" id="Cpwd" placeholder="enter your password" class="len">
+                </div>
+                <div>
+                    <label for="pwd" class="lbl">Confirm Password*</label><br>
+                    <input type="password" id="Cpwd" placeholder="enter your password again" class="len">
+                </div>
+
+            </div>
+            <div class="combine">
+                <div>
+            <label class="lbl">Gender:</label><br>
+           
+                <input type="radio" name="gender" id="male"><label for="male">Male</label>
+                <input type="radio" name="gender" id="female"><label for="female">Female</label>
+            </div>
+            <div>
+            <label class="lbl">Hobbies</label><br>
+            <input type="checkbox"> <label class="check">Music</label>
+            <input type="checkbox" ><label class="check">Sports</label> 
+            <input type="checkbox"> <label class="check">Travel</label>
+            <input type="checkbox"><label class="check">Movies</label> 
+        </div>
+        </div>
+        <div class="combine">
+            <div>
+            <label for="srcIncome" class="lbl">Source of Income</label><br>
+            <select id="srcIncome" class="len">
+                <option >Employed</option>
+            </select>
+            </div>
+            <div>
+            <label for="income" class="lbl">Income</label><br>
+            <input type="range" id="income" class="len" >20k
+        </div>
+        </div>
+        <div class="combine">
+            <div>
+                <label for="file" class="lbl">Upload Profile Picture</label><br>
+                <input type="file" id="file">
+            </div>
+            <div>
+            <label for="age" class="lbl">Age</label><br>
+            <input type="number" id="age" value="18" class="len">
+            </div>
+        </div>
+        <div>
+            <label for="bio" class="lbl">Bio</label> <br>
+            <textarea id="bio"  rows="5"></textarea>
+        </div>
+        </form>
+        <button id="btn">Create</button>
+    </div>
+</body>
+</html>
