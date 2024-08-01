@@ -29,10 +29,10 @@
             <div class="combine">
                 <div>
                     <label for="pwd" class="lbl">Password*</label><br>
-                    <input type="password" id="Cpwd" placeholder="enter your password" class="len">
+                    <input type="password" id="pwd" placeholder="enter your password" class="len">
                 </div>
                 <div>
-                    <label for="pwd" class="lbl">Confirm Password*</label><br>
+                    <label for="Cpwd" class="lbl">Confirm Password*</label><br>
                     <input type="password" id="Cpwd" placeholder="enter your password again" class="len">
                 </div>
 
@@ -55,13 +55,13 @@
         <div class="combine">
             <div>
             <label for="srcIncome" class="lbl">Source of Income</label><br>
-            <select id="srcIncome" class="len">
+            <select id="srcIncome" >
                 <option >Employed</option>
             </select>
             </div>
             <div>
             <label for="income" class="lbl">Income</label><br>
-            <input type="range" id="income" class="len" >20k
+            <input type="range" id="income" class="rangeLen">20k
         </div>
         </div>
         <div class="combine">
@@ -78,8 +78,11 @@
             <label for="bio" class="lbl">Bio</label> <br>
             <textarea id="bio"  rows="5"></textarea>
         </div>
+        <div id="btn">
+            <input type="submit" value="Create">
+        </div>
         </form>
-        <button id="btn">Create</button>
+        
     </div>
 </body>
 </html>
