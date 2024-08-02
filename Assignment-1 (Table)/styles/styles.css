@@ -1,0 +1,18 @@
+table,th,td{
+    border: 0.1px solid rgba(135, 132, 132,0.11);
+    border-collapse: collapse;
+    padding: 3px;
+    text-align: center;
+    background-color: rgba(188, 184, 184, 0.11)
+    }
+    .bgcolor{
+        background-color:white;
+    }
+
+table{
+    width: 100%;
+    margin:30px auto;
+}
+h1{
+    text-align: center;
+}
