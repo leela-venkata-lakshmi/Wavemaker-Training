@@ -9,5 +9,9 @@ Form in medium screen
 
 
 Assignment-3
-Calculator in small screen
-![calc(sm)](https://github.com/user-attachments/assets/74f60ce3-1fec-4ff8-af97-9697d622f9a3)
+Calucalator in large screen
+<img width="824" alt="calc(lg)" src="https://github.com/user-attachments/assets/b20c48d7-3975-44f6-9773-c98668765e4e">
+
+Calculator in small screen![calci(sm)](https://github.com/user-attachments/assets/1b261d72-4e68-46d2-abb4-6a002b665a0a)
+
+
