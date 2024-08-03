@@ -1,0 +1,26 @@
+.bg{
+    background-color: rgb(51, 69, 72);   
+}
+
+@media (max-width:480px)
+{
+    #containerWidth{
+        width:100%;
+    }
+    #ctr{
+        margin-left: 110px;
+        font-size: x-large;
+       
+    }
+    .mleft
+    {
+        margin-left: 80px;
+       
+    }
+}
+@media (min-width:1008px)
+{
+    #containerWidth{
+        width:50%;
+    }
+}
