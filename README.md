@@ -20,5 +20,6 @@ Calculator in small screen![calci(sm)](https://github.com/user-attachments/asset
 Assignment-4
 Please check here https://leela-venkata-lakshmi.github.io/profile/
 
+In small screen
 <img width="154" alt="profile(sm)" src="https://github.com/user-attachments/assets/0e5cde58-8ccc-4077-a6e7-005077d0be5e">
 
