@@ -1,0 +1,148 @@
+#profilePic{
+   width:110%;
+    border-radius: 100px;
+   
+    /* margin:20px */
+}
+body{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+.name{
+    font-size: 25px;
+   
+    font-family:'Times New Roman', Times, serif;
+}
+#tagline{
+    text-align: center;
+    font-style: italic;
+    padding: 0px;
+    
+}
+#tagline a{
+    animation: anime2 4s ease 1s infinite normal;
+    font-size: larger;
+}
+.nameDiv
+{
+    margin-top:50px;
+}
+#container1
+{
+   
+    padding: 20px;
+    
+    background-color:#03346E;
+    color: white;
+  
+}
+.rowBtn
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#eduBtn
+{
+    animation: anime1 2s ease-in 0s infinite normal;
+}
+#skillBtn
+{
+    animation: anime1 2s ease-in 1.5s infinite normal;
+}
+#xpBtn
+{
+    animation: anime1 2s ease-in 3s infinite normal;
+}
+.hidden{
+    display:none;
+}
+
+@keyframes anime1{
+    0% {background-color: aqua;}
+    50% {background-color: black;color: white;}
+    100% {background-color:chartreuse;}
+    
+}
+@keyframes anime2{
+    0% {color:red;}
+    25% {color:#3287d2}
+    50% {color:#f5db16;}
+    75% {color: #0ff047;}
+    100% {color:rgb(245, 19, 196);}
+    
+}
+   
+
+.social-icon {
+    width: 20px;
+    margin: 5px;
+    
+}
+
+
+ @media (max-width: 576px) {
+    /* .social-icon {
+        width: 40px;
+    } */
+     #profilePic{
+        width:50%;
+        margin-left:85px;
+     }
+     .name{
+        font-size: medium;
+        padding-left: 30px;
+        padding-right: 0;
+        margin:0;
+     }
+     #tagline{
+        padding-left:20px;
+     }
+     .nameDiv{
+        text-align: center;
+     }
+     .social-icon {
+        width: 40px;
+    }
+
+} 
+
+@media (min-width: 768px) {
+    .social-icon {
+        width: 50px;
+    }
+    .name{
+        padding-left: 40px;
+    }
+}
+
+@media (min-width: 992px) {
+    .social-icon {
+        width: 60px;
+    }
+    .name{
+        padding-left: 90px;
+    }
+    .profile img{
+        margin-left: 20px;
+    }
+   
+}
+
+@media (min-width: 1200px) {
+    .social-icon {
+        width: 40px;
+    }
+    .name{
+        padding-left: 20px;
+        font-size: 25px;
+    }
+    #container1
+    {
+        width: 55%;
+        margin-top: 30px;
+    }
+}
