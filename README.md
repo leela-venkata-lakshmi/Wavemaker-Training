@@ -9,6 +9,11 @@ Form in medium screen
 
 
 
+Assignment-2 with API
+<img width="794" alt="assign2API" src="https://github.com/user-attachments/assets/8d920ec3-a8ec-4f45-827d-38832560ead5">
+
+
+
 Assignment-3
 Calucalator in large screen
 <img width="824" alt="calc(lg)" src="https://github.com/user-attachments/assets/b20c48d7-3975-44f6-9773-c98668765e4e">
