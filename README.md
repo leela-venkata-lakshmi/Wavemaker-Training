@@ -14,6 +14,10 @@ Assignment-2 with API
 
 
 
+
+
+
+
 Assignment-3
 Calucalator in large screen
 <img width="824" alt="calc(lg)" src="https://github.com/user-attachments/assets/b20c48d7-3975-44f6-9773-c98668765e4e">
