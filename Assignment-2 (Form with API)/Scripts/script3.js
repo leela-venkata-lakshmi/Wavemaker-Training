@@ -1,5 +1,5 @@
-let password=document.getElementById("password");
-let cpassword=document.getElementById("confirmpassword");
+let password=document.getElementById("pwd");
+let cpassword=document.getElementById("Cpwd");
 
 document.addEventListener('DOMContentLoaded', function() {
    
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const formData = new FormData(this);
                 const data = Object.fromEntries(formData);
                 console.log(data);
-                if(pwd.value!=Cpwd.value){
+                if(password.value!=cpassword.value){
                     alert("password not matching");
                     return;
                 }
