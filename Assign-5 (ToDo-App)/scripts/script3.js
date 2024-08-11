@@ -280,14 +280,14 @@ function enterSubTask(taskId) {
     }
    
         taskData[dataIndex].subTasks.push({
-            id: Date.now(), // Unique ID for each sub-task
+            id: Date.now(), 
             text: subTaskText
         });
     
     
 
     localStorage.setItem("data", JSON.stringify(taskData));
-    updateTodoList(); // Re-render the list to include sub-tasks
+    updateTodoList(); 
 }
 
 
@@ -300,7 +300,7 @@ function deleteSubTask(taskId, subTaskId) {
     if (taskIndex !== -1) {
         taskData[taskIndex].subTasks = taskData[taskIndex].subTasks.filter(subTask => subTask.id !== subTaskId);
         localStorage.setItem("data", JSON.stringify(taskData));
-        updateTodoList(); // Re-render the list to remove the deleted sub-task
+        updateTodoList(); 
     }
 }
 
