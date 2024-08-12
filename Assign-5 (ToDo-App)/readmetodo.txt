@@ -16,6 +16,7 @@ Dropdown:
 Sort based on Priority
 Sort based on Due date
 Subtasks: Allow users to create subtasks within main tasks
+Extend search functionality to subtasks as well. My search query should fetch results matching subtasks as well now.
 Responsiveness.
 
 
@@ -25,4 +26,4 @@ Subtasks can be hidden and can be viewed.
 
 Unsuccessful features:
 I should be able to drag and drop tasks subtasks across the list
-Extend search functionality to subtasks as well. My search query should fetch results matching subtasks as well now.
+
