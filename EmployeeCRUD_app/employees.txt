@@ -1,0 +1,5 @@
+Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+Employee{empId=1, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+Employee{empId=1, empName='leela', deptName='jfksf', address=ljdfsl, djfkjh, 234134}
+Employee{empId=1, empName='niha', deptName='jfh', address=kjfh, kjeh, 234134}

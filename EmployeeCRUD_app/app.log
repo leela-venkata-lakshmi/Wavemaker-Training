@@ -1,0 +1,1251 @@
+2024-08-21 10:33:55 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@563f38c4
+2024-08-21 10:58:39 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-21 10:59:14 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='sssss', State='wwwww', pinCode=232323}}
+2024-08-21 10:59:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='sssss', State='wwwww', pinCode=232323}}
+2024-08-21 11:02:17 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-21 11:02:39 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='aaaa', State='bbbbb', pinCode=232321}}
+2024-08-21 11:02:39 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='aaaa', State='bbbbb', pinCode=232321}}
+2024-08-21 11:07:10 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@6d4d66d2
+2024-08-21 11:07:33 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='abc', State='ddd', pinCode=343431}}
+2024-08-21 11:07:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='abc', State='ddd', pinCode=343431}}
+2024-08-21 11:34:14 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 11:34:38 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='eeee', State='jjjjj', pinCode=676787}}
+2024-08-21 11:34:38 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='eeee', State='jjjjj', pinCode=676787}}
+2024-08-21 11:36:02 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 11:36:17 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='rtyu', deptName='rtyui', address=Address{Street='bjk', State='fhghjk', pinCode=565789}}
+2024-08-21 11:36:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='rtyu', deptName='rtyui', address=Address{Street='bjk', State='fhghjk', pinCode=565789}}
+2024-08-21 11:37:56 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 11:38:12 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='errrt', address=Address{Street='ffygh', State='fhggh', pinCode=456463}}
+2024-08-21 11:38:12 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='errrt', address=Address{Street='ffygh', State='fhggh', pinCode=456463}}
+2024-08-21 11:38:12 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=null, empName='leela', deptName='errrt', address=Address{Street='ffygh', State='fhggh', pinCode=456463}}
+2024-08-21 11:38:12 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=null, empName='leela', deptName='errrt', address=Address{Street='ffygh', State='fhggh', pinCode=456463}}
+2024-08-21 11:38:12 [main] INFO  com.example.Main - Employee id:
+2024-08-21 11:40:57 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 11:41:17 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='jkhlk', deptName='hjkhlj', address=Address{Street='jkjjg', State='hgjhgk', pinCode=564534}}
+2024-08-21 11:41:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='jkhlk', deptName='hjkhlj', address=Address{Street='jkjjg', State='hgjhgk', pinCode=564534}}
+2024-08-21 11:41:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=null, empName='jkhlk', deptName='hjkhlj', address=Address{Street='jkjjg', State='hgjhgk', pinCode=564534}}
+2024-08-21 11:41:17 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=null, empName='jkhlk', deptName='hjkhlj', address=Address{Street='jkjjg', State='hgjhgk', pinCode=564534}}
+2024-08-21 11:41:17 [main] INFO  com.example.Main - Employee id:
+2024-08-21 11:43:05 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@76b1e9b8
+2024-08-21 11:43:25 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='kakaddf', State='djksjk', pinCode=232123}}
+2024-08-21 11:43:25 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='kakaddf', State='djksjk', pinCode=232123}}
+2024-08-21 11:43:25 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='kakaddf', State='djksjk', pinCode=232123}}
+2024-08-21 11:43:25 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='kakaddf', State='djksjk', pinCode=232123}}
+2024-08-21 11:43:25 [main] INFO  com.example.Main - Employee id 1724220805086:
+2024-08-21 11:57:08 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 12:02:50 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 12:03:07 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='dept', address=Address{Street='jhkf', State='gjyty', pinCode=345667}}
+2024-08-21 12:03:07 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='dept', address=Address{Street='jhkf', State='gjyty', pinCode=345667}}
+2024-08-21 12:03:07 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=null, empName='leela', deptName='dept', address=Address{Street='jhkf', State='gjyty', pinCode=345667}}
+2024-08-21 12:03:07 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=null, empName='leela', deptName='dept', address=Address{Street='jhkf', State='gjyty', pinCode=345667}}
+2024-08-21 12:03:07 [main] INFO  com.example.Main - Employee id 1724221987684:
+2024-08-21 12:03:11 [main] INFO  com.example.Controller.EmployeeController - Fetching all employees
+2024-08-21 12:03:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching all employees
+2024-08-21 12:03:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetched 1 employees
+2024-08-21 12:03:11 [main] INFO  com.example.Controller.EmployeeController - Fetched 1 employees
+2024-08-21 12:04:17 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1724221987684
+2024-08-21 12:04:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1724221987684
+2024-08-21 12:04:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1724221987684
+2024-08-21 12:04:17 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1724221987684 deleted successfully.
+2024-08-21 12:08:35 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 12:16:50 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@563f38c4
+2024-08-21 12:17:10 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssssss', State='dddddd', pinCode=342321}}
+2024-08-21 12:17:10 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssssss', State='dddddd', pinCode=342321}}
+2024-08-21 12:17:10 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssssss', State='dddddd', pinCode=342321}}
+2024-08-21 12:17:10 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssssss', State='dddddd', pinCode=342321}}
+2024-08-21 12:17:10 [main] INFO  com.example.Main - Employee id 1724222830583:
+2024-08-21 12:17:32 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1724222830583
+2024-08-21 12:17:32 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1724222830583
+2024-08-21 12:17:32 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssssss', State='dddddd', pinCode=342321}}
+2024-08-21 12:17:32 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssssss', State='dddddd', pinCode=342321}}
+2024-08-21 12:20:23 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-21 12:20:41 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='qqwqwe', State='kjhkjks', pinCode=342345}}
+2024-08-21 12:20:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='qqwqwe', State='kjhkjks', pinCode=342345}}
+2024-08-21 12:20:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='qqwqwe', State='kjhkjks', pinCode=342345}}
+2024-08-21 12:20:41 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='qqwqwe', State='kjhkjks', pinCode=342345}}
+2024-08-21 12:20:41 [main] INFO  com.example.Main - Employee id 1724223041483:
+2024-08-21 12:20:55 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1724223041483
+2024-08-21 12:20:55 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1724223041483
+2024-08-21 12:20:55 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='qqwqwe', State='kjhkjks', pinCode=342345}}
+2024-08-21 12:20:55 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='qqwqwe', State='kjhkjks', pinCode=342345}}
+2024-08-21 12:28:05 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@1530c739
+2024-08-21 12:28:35 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssdss', State='ioueiouer', pinCode=342123}}
+2024-08-21 12:28:35 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssdss', State='ioueiouer', pinCode=342123}}
+2024-08-21 12:28:35 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssdss', State='ioueiouer', pinCode=342123}}
+2024-08-21 12:28:35 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='ssdss', State='ioueiouer', pinCode=342123}}
+2024-08-21 12:28:35 [main] INFO  com.example.Main - Employee id 1724223515345:
+2024-08-21 12:30:34 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='megha', deptName='development', address=Address{Street='eweeer', State='ohdfjhsjf', pinCode=354582}}
+2024-08-21 12:30:34 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='megha', deptName='development', address=Address{Street='eweeer', State='ohdfjhsjf', pinCode=354582}}
+2024-08-21 12:30:34 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=null, empName='megha', deptName='development', address=Address{Street='eweeer', State='ohdfjhsjf', pinCode=354582}}
+2024-08-21 12:30:34 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=null, empName='megha', deptName='development', address=Address{Street='eweeer', State='ohdfjhsjf', pinCode=354582}}
+2024-08-21 12:30:34 [main] INFO  com.example.Main - Employee id 1724223634874:
+2024-08-21 12:31:16 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 12:31:39 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='akanksha', deptName='development', address=Address{Street='ssssss', State='ttttt', pinCode=342123}}
+2024-08-21 12:31:39 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='akanksha', deptName='development', address=Address{Street='ssssss', State='ttttt', pinCode=342123}}
+2024-08-21 12:31:39 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724223699122, empName='akanksha', deptName='development', address=Address{Street='ssssss', State='ttttt', pinCode=342123}}
+2024-08-21 12:31:39 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724223699122, empName='akanksha', deptName='development', address=Address{Street='ssssss', State='ttttt', pinCode=342123}}
+2024-08-21 12:31:39 [main] INFO  com.example.Main - Employee id 1724223699122:
+2024-08-21 12:32:08 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1724223699122
+2024-08-21 12:32:08 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1724223699122
+2024-08-21 12:32:08 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=1724223699122, empName='akanksha', deptName='development', address=Address{Street='ssssss', State='ttttt', pinCode=342123}}
+2024-08-21 12:32:08 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=1724223699122, empName='akanksha', deptName='development', address=Address{Street='ssssss', State='ttttt', pinCode=342123}}
+2024-08-21 12:33:10 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='kkkkkkk', State='yyyyyyy', pinCode=212343}}
+2024-08-21 12:33:10 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='kkkkkkk', State='yyyyyyy', pinCode=212343}}
+2024-08-21 12:33:10 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724223790997, empName='leela', deptName='development', address=Address{Street='kkkkkkk', State='yyyyyyy', pinCode=212343}}
+2024-08-21 12:33:10 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724223790997, empName='leela', deptName='development', address=Address{Street='kkkkkkk', State='yyyyyyy', pinCode=212343}}
+2024-08-21 12:33:10 [main] INFO  com.example.Main - Employee id 1724223790999:
+2024-08-21 12:33:56 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=null, empName='leela', deptName='development', address=Address{Street='my', State='street', pinCode=531031}}
+2024-08-21 12:33:56 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='my', State='street', pinCode=531031}}
+2024-08-21 12:33:56 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=null, empName='leela', deptName='development', address=Address{Street='my', State='street', pinCode=531031}}
+2024-08-21 12:33:56 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=null, empName='leela', deptName='development', address=Address{Street='my', State='street', pinCode=531031}}
+2024-08-21 12:33:56 [main] INFO  com.example.Main - Employee id 1724223836616:
+2024-08-21 12:34:14 [main] INFO  com.example.Controller.EmployeeController - Fetching all employees
+2024-08-21 12:34:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching all employees
+2024-08-21 12:34:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetched 3 employees
+2024-08-21 12:34:14 [main] INFO  com.example.Controller.EmployeeController - Fetched 3 employees
+2024-08-21 12:41:03 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 12:41:33 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='hfkjhkj', address=Address{Street='sjdhjdn', State='djeiw', pinCode=232142}}
+2024-08-21 12:41:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='hfkjhkj', address=Address{Street='sjdhjdn', State='djeiw', pinCode=232142}}
+2024-08-21 12:41:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724224293549, empName='leela', deptName='hfkjhkj', address=Address{Street='sjdhjdn', State='djeiw', pinCode=232142}}
+2024-08-21 12:41:33 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724224293549, empName='leela', deptName='hfkjhkj', address=Address{Street='sjdhjdn', State='djeiw', pinCode=232142}}
+2024-08-21 12:41:33 [main] INFO  com.example.Main - Employee id 1724224293550:
+2024-08-21 12:41:36 [main] INFO  com.example.Controller.EmployeeController - Fetching all employees
+2024-08-21 12:41:36 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching all employees
+2024-08-21 12:41:36 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetched 1 employees
+2024-08-21 12:41:36 [main] INFO  com.example.Controller.EmployeeController - Fetched 1 employees
+2024-08-21 12:46:03 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='megha', deptName='development', address=Address{Street='huuhhu', State='mp', pinCode=937429}}
+2024-08-21 12:46:03 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='megha', deptName='development', address=Address{Street='huuhhu', State='mp', pinCode=937429}}
+2024-08-21 12:46:03 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724224563975, empName='megha', deptName='development', address=Address{Street='huuhhu', State='mp', pinCode=937429}}
+2024-08-21 12:46:03 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724224563975, empName='megha', deptName='development', address=Address{Street='huuhhu', State='mp', pinCode=937429}}
+2024-08-21 12:46:03 [main] INFO  com.example.Main - Employee id 1724224563975:
+2024-08-21 12:46:14 [main] INFO  com.example.Controller.EmployeeController - Fetching all employees
+2024-08-21 12:46:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching all employees
+2024-08-21 12:46:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetched 2 employees
+2024-08-21 12:46:14 [main] INFO  com.example.Controller.EmployeeController - Fetched 2 employees
+2024-08-21 13:44:54 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@1530c739
+2024-08-21 13:45:47 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='Leela', deptName='Development', address=Address{Street='firststreet', State='andhrapradesh', pinCode=382374}}
+2024-08-21 13:45:47 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='Leela', deptName='Development', address=Address{Street='firststreet', State='andhrapradesh', pinCode=382374}}
+2024-08-21 13:45:47 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724228147922, empName='Leela', deptName='Development', address=Address{Street='firststreet', State='andhrapradesh', pinCode=382374}}
+2024-08-21 13:45:47 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724228147922, empName='Leela', deptName='Development', address=Address{Street='firststreet', State='andhrapradesh', pinCode=382374}}
+2024-08-21 13:45:47 [main] INFO  com.example.Main - Employee id 1724228147923:
+2024-08-21 13:46:27 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='Megha', deptName='development', address=Address{Street='wkjhfw', State='madhyapradesh', pinCode=123432}}
+2024-08-21 13:46:27 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='Megha', deptName='development', address=Address{Street='wkjhfw', State='madhyapradesh', pinCode=123432}}
+2024-08-21 13:46:27 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724228187134, empName='Megha', deptName='development', address=Address{Street='wkjhfw', State='madhyapradesh', pinCode=123432}}
+2024-08-21 13:46:27 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724228187134, empName='Megha', deptName='development', address=Address{Street='wkjhfw', State='madhyapradesh', pinCode=123432}}
+2024-08-21 13:46:27 [main] INFO  com.example.Main - Employee id 1724228187135:
+2024-08-21 13:46:31 [main] INFO  com.example.Controller.EmployeeController - Fetching all employees
+2024-08-21 13:46:31 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching all employees
+2024-08-21 13:46:31 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetched 2 employees
+2024-08-21 13:46:31 [main] INFO  com.example.Controller.EmployeeController - Fetched 2 employees
+2024-08-21 13:52:24 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-21 13:52:37 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='lkjwekj', deptName='kwfkf', address=kfkd',kdfk', 923732}
+2024-08-21 13:52:37 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='lkjwekj', deptName='kwfkf', address=kfkd',kdfk', 923732}
+2024-08-21 13:52:37 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724228557810, empName='lkjwekj', deptName='kwfkf', address=kfkd',kdfk', 923732}
+2024-08-21 13:52:37 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724228557810, empName='lkjwekj', deptName='kwfkf', address=kfkd',kdfk', 923732}
+2024-08-21 13:52:37 [main] INFO  com.example.Main - Employee id 1724228557810:
+2024-08-21 13:52:52 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='lwkkew', deptName='12ekkdnf', address=klsdfk',sldkd', 298132}
+2024-08-21 13:52:52 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='lwkkew', deptName='12ekkdnf', address=klsdfk',sldkd', 298132}
+2024-08-21 13:52:52 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724228572107, empName='lwkkew', deptName='12ekkdnf', address=klsdfk',sldkd', 298132}
+2024-08-21 13:52:52 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724228572107, empName='lwkkew', deptName='12ekkdnf', address=klsdfk',sldkd', 298132}
+2024-08-21 13:52:52 [main] INFO  com.example.Main - Employee id 1724228572108:
+2024-08-21 13:54:17 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1724228582412
+2024-08-21 13:54:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1724228582412
+2024-08-21 13:54:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1724228582412
+2024-08-21 13:54:17 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1724228582412 deleted successfully.
+2024-08-21 13:58:26 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1724228660074
+2024-08-21 13:58:26 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1724228660074
+2024-08-21 13:58:26 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1724228660074
+2024-08-21 13:58:26 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1724228660074 deleted successfully.
+2024-08-21 13:59:18 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@63fbfaeb
+2024-08-21 13:59:34 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='leela', deptName='ses', address=ap',ap', 78906}
+2024-08-21 13:59:34 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='leela', deptName='ses', address=ap',ap', 78906}
+2024-08-21 13:59:34 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724228974640, empName='leela', deptName='ses', address=ap',ap', 78906}
+2024-08-21 13:59:34 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724228974640, empName='leela', deptName='ses', address=ap',ap', 78906}
+2024-08-21 13:59:34 [main] INFO  com.example.Main - Employee id 1724228974640:
+2024-08-21 13:59:58 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1724228974640
+2024-08-21 13:59:58 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1724228974640
+2024-08-21 14:01:20 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1724228974640
+2024-08-21 14:01:25 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1724228974640 deleted successfully.
+2024-08-21 14:01:52 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@38234a38
+2024-08-21 14:02:15 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='roopa', deptName='cse', address=tel',hyd', 78960}
+2024-08-21 14:02:15 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='roopa', deptName='cse', address=tel',hyd', 78960}
+2024-08-21 14:02:15 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724229135589, empName='roopa', deptName='cse', address=tel',hyd', 78960}
+2024-08-21 14:02:15 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724229135589, empName='roopa', deptName='cse', address=tel',hyd', 78960}
+2024-08-21 14:02:15 [main] INFO  com.example.Main - Employee id 1724229135589:
+2024-08-21 14:02:30 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1724228974640
+2024-08-21 14:02:30 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1724228974640
+2024-08-21 14:02:30 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 1724228974640 not found
+2024-08-21 14:02:30 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 1724228974640 not found
+2024-08-21 14:02:50 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1724229157627
+2024-08-21 14:02:50 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1724229157627
+2024-08-21 14:06:05 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1724229157627
+2024-08-21 14:06:05 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1724229157627 deleted successfully.
+2024-08-21 14:06:16 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@2c07545f
+2024-08-21 14:06:26 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='hshdkjahaj', deptName='aklsdjkajd', address=ajsd',aksjd', 222222}
+2024-08-21 14:06:26 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='hshdkjahaj', deptName='aklsdjkajd', address=ajsd',aksjd', 222222}
+2024-08-21 14:06:26 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724229386706, empName='hshdkjahaj', deptName='aklsdjkajd', address=ajsd',aksjd', 222222}
+2024-08-21 14:06:26 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724229386706, empName='hshdkjahaj', deptName='aklsdjkajd', address=ajsd',aksjd', 222222}
+2024-08-21 14:06:26 [main] INFO  com.example.Main - Employee id 1724229386706:
+2024-08-21 14:06:43 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1724229386706
+2024-08-21 14:06:43 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1724229386706
+2024-08-21 14:07:05 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - hello hi hi
+2024-08-21 14:07:05 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1724229386706
+2024-08-21 14:07:05 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1724229386706 deleted successfully.
+2024-08-21 14:07:36 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@2c07545f
+2024-08-21 14:07:51 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='djfhsdj', deptName='sdjsk', address=jsdkshd',sjdksh', 387284}
+2024-08-21 14:07:51 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='djfhsdj', deptName='sdjsk', address=jsdkshd',sjdksh', 387284}
+2024-08-21 14:07:51 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724229471425, empName='djfhsdj', deptName='sdjsk', address=jsdkshd',sjdksh', 387284}
+2024-08-21 14:07:51 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724229471425, empName='djfhsdj', deptName='sdjsk', address=jsdkshd',sjdksh', 387284}
+2024-08-21 14:07:51 [main] INFO  com.example.Main - Employee id 1724229471425:
+2024-08-21 14:08:03 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1724229471425
+2024-08-21 14:08:03 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1724229471425
+2024-08-21 14:08:03 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - hello hi hi
+2024-08-21 14:08:03 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1724229471425
+2024-08-21 14:08:03 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1724229471425 deleted successfully.
+2024-08-21 14:08:54 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='jhsjkfh', deptName='skdjhfsj', address=djksjh',ihdfjhs', 392833}
+2024-08-21 14:08:54 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='jhsjkfh', deptName='skdjhfsj', address=djksjh',ihdfjhs', 392833}
+2024-08-21 14:08:54 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724229534211, empName='jhsjkfh', deptName='skdjhfsj', address=djksjh',ihdfjhs', 392833}
+2024-08-21 14:08:54 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724229534211, empName='jhsjkfh', deptName='skdjhfsj', address=djksjh',ihdfjhs', 392833}
+2024-08-21 14:08:54 [main] INFO  com.example.Main - Employee id 1724229534212:
+2024-08-21 14:09:22 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1724229536982
+2024-08-21 14:09:22 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1724229536982
+2024-08-21 14:09:22 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 1724229536982 not found
+2024-08-21 14:09:22 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 1724229536982 not found
+2024-08-21 14:13:59 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 14:14:13 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='jskdh', deptName='skjdhfjsd', address=djfkjs',sdjks', 237632}
+2024-08-21 14:14:13 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='jskdh', deptName='skjdhfjsd', address=djfkjs',sdjks', 237632}
+2024-08-21 14:14:13 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724229853881, empName='jskdh', deptName='skjdhfjsd', address=djfkjs',sdjks', 237632}
+2024-08-21 14:14:13 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724229853881, empName='jskdh', deptName='skjdhfjsd', address=djfkjs',sdjks', 237632}
+2024-08-21 14:14:13 [main] INFO  com.example.Main - Employee id 1724229853882:
+2024-08-21 14:14:46 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=null, empName='jdhs', deptName='djkskjb', address=djkjsd'',dkjsj', 287863}
+2024-08-21 14:14:46 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=null, empName='jdhs', deptName='djkskjb', address=djkjsd'',dkjsj', 287863}
+2024-08-21 14:14:46 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1724229886924, empName='jdhs', deptName='djkskjb', address=djkjsd'',dkjsj', 287863}
+2024-08-21 14:14:46 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1724229886924, empName='jdhs', deptName='djkskjb', address=djkjsd'',dkjsj', 287863}
+2024-08-21 14:14:46 [main] INFO  com.example.Main - Employee id 1724229886926:
+2024-08-21 14:16:11 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1724229890606
+2024-08-21 14:16:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1724229890606
+2024-08-21 14:16:11 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - hello hi hi
+2024-08-21 14:16:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1724229890606
+2024-08-21 14:16:11 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1724229890606 deleted successfully.
+2024-08-21 14:16:31 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1724229890606
+2024-08-21 14:16:31 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1724229890606
+2024-08-21 14:16:31 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-21 14:16:31 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 1724229890606 not found
+2024-08-21 14:16:31 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 1724229890606 not found
+2024-08-21 14:16:53 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1724229890605
+2024-08-21 14:16:53 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1724229890605
+2024-08-21 14:16:53 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-21 14:16:53 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 1724229890605 not found
+2024-08-21 14:16:53 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 1724229890605 not found
+2024-08-21 14:17:28 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=null, empName='jsdhf', deptName='kjfks', address=jkjksh',ueriuwhf', 234234}
+2024-08-21 14:17:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=null, empName='jsdhf', deptName='kjfks', address=jkjksh',ueriuwhf', 234234}
+2024-08-21 14:17:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=null, empName='jsdhf', deptName='kjfks', address=jkjksh',ueriuwhf', 234234}
+2024-08-21 14:17:28 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=null, empName='jsdhf', deptName='kjfks', address=jkjksh',ueriuwhf', 234234}
+2024-08-21 14:17:28 [main] INFO  com.example.Main - Employee id 1724230048289:
+2024-08-21 14:44:12 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 14:44:23 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='ertryty', deptName='fdghfghv', address=hghj',jhhj', 5456765}
+2024-08-21 14:44:23 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='ertryty', deptName='fdghfghv', address=hghj',jhhj', 5456765}
+2024-08-21 14:44:23 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='ertryty', deptName='fdghfghv', address=hghj',jhhj', 5456765}
+2024-08-21 14:44:23 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='ertryty', deptName='fdghfghv', address=hghj',jhhj', 5456765}
+2024-08-21 14:44:23 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 14:44:41 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='uhjfh', deptName='sjvjsnv', address=wngkjne',lkjk', 987453}
+2024-08-21 14:44:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=2, empName='uhjfh', deptName='sjvjsnv', address=wngkjne',lkjk', 987453}
+2024-08-21 14:44:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='uhjfh', deptName='sjvjsnv', address=wngkjne',lkjk', 987453}
+2024-08-21 14:44:41 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='uhjfh', deptName='sjvjsnv', address=wngkjne',lkjk', 987453}
+2024-08-21 14:44:41 [main] INFO  com.example.Main - Employee id 2:
+2024-08-21 14:44:59 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='jhjf', deptName='igjekn', address=wnfjkrnf',kljk', 8767234}
+2024-08-21 14:44:59 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=3, empName='jhjf', deptName='igjekn', address=wnfjkrnf',kljk', 8767234}
+2024-08-21 14:44:59 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=3, empName='jhjf', deptName='igjekn', address=wnfjkrnf',kljk', 8767234}
+2024-08-21 14:44:59 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=3, empName='jhjf', deptName='igjekn', address=wnfjkrnf',kljk', 8767234}
+2024-08-21 14:44:59 [main] INFO  com.example.Main - Employee id 3:
+2024-08-21 14:45:07 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 2
+2024-08-21 14:45:07 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 2
+2024-08-21 14:45:07 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - hello hi hi
+2024-08-21 14:45:07 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 2
+2024-08-21 14:45:07 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 2 deleted successfully.
+2024-08-21 14:45:33 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 3
+2024-08-21 14:45:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 3
+2024-08-21 14:45:33 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-21 14:45:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=3, empName='jhjf', deptName='igjekn', address=wnfjkrnf',kljk', 8767234}
+2024-08-21 14:45:33 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=3, empName='jhjf', deptName='igjekn', address=wnfjkrnf',kljk', 8767234}
+2024-08-21 14:47:14 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='gggggg', deptName='jjjjjj', address=kkkkkk',llllll', 345345}
+2024-08-21 14:47:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='gggggg', deptName='jjjjjj', address=kkkkkk',llllll', 345345}
+2024-08-21 14:47:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='gggggg', deptName='jjjjjj', address=kkkkkk',llllll', 345345}
+2024-08-21 14:47:14 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='gggggg', deptName='jjjjjj', address=kkkkkk',llllll', 345345}
+2024-08-21 14:47:14 [main] INFO  com.example.Main - Employee id 0:
+2024-08-21 14:51:37 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-21 14:51:57 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=kasjdskj',jdksdf', 298376}
+2024-08-21 14:51:57 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='leela', deptName='development', address=kasjdskj',jdksdf', 298376}
+2024-08-21 14:51:57 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=kasjdskj',jdksdf', 298376}
+2024-08-21 14:51:57 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=kasjdskj',jdksdf', 298376}
+2024-08-21 14:51:57 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 14:52:30 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='roopa', deptName='development', address=ojfhnjd',sdjhow', 293873}
+2024-08-21 14:52:30 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=2, empName='roopa', deptName='development', address=ojfhnjd',sdjhow', 293873}
+2024-08-21 14:52:30 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='roopa', deptName='development', address=ojfhnjd',sdjhow', 293873}
+2024-08-21 14:52:30 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='roopa', deptName='development', address=ojfhnjd',sdjhow', 293873}
+2024-08-21 14:52:30 [main] INFO  com.example.Main - Employee id 2:
+2024-08-21 14:52:37 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 2
+2024-08-21 14:52:37 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 2
+2024-08-21 14:52:37 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-21 14:52:37 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=2, empName='roopa', deptName='development', address=ojfhnjd',sdjhow', 293873}
+2024-08-21 14:52:37 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=2, empName='roopa', deptName='development', address=ojfhnjd',sdjhow', 293873}
+2024-08-21 14:54:36 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-21 14:54:53 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='jdfjkdn', address=akjsnd',aksdnj', 9273467}
+2024-08-21 14:54:53 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='leela', deptName='jdfjkdn', address=akjsnd',aksdnj', 9273467}
+2024-08-21 14:54:53 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='jdfjkdn', address=akjsnd',aksdnj', 9273467}
+2024-08-21 14:54:53 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='jdfjkdn', address=akjsnd',aksdnj', 9273467}
+2024-08-21 14:54:53 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 14:54:58 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1
+2024-08-21 14:54:58 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1
+2024-08-21 14:54:58 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-21 14:54:58 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=1, empName='leela', deptName='jdfjkdn', address=akjsnd',aksdnj', 9273467}
+2024-08-21 14:54:58 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=1, empName='leela', deptName='jdfjkdn', address=akjsnd',aksdnj', 9273467}
+2024-08-21 14:55:34 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='ksjdnj', deptName='knjdnw', address=lkwejk',wlekje', 286752}
+2024-08-21 14:55:34 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=2, empName='ksjdnj', deptName='knjdnw', address=lkwejk',wlekje', 286752}
+2024-08-21 14:55:34 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='ksjdnj', deptName='knjdnw', address=lkwejk',wlekje', 286752}
+2024-08-21 14:55:34 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='ksjdnj', deptName='knjdnw', address=lkwejk',wlekje', 286752}
+2024-08-21 14:55:34 [main] INFO  com.example.Main - Employee id 2:
+2024-08-21 14:57:53 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-21 14:58:03 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='dfghgj', deptName='jjnj', address=ksjdjk,jekjw, 3748723}
+2024-08-21 14:58:03 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='dfghgj', deptName='jjnj', address=ksjdjk,jekjw, 3748723}
+2024-08-21 14:58:03 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='dfghgj', deptName='jjnj', address=ksjdjk,jekjw, 3748723}
+2024-08-21 14:58:03 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='dfghgj', deptName='jjnj', address=ksjdjk,jekjw, 3748723}
+2024-08-21 14:58:03 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 15:12:57 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@6892b3b6
+2024-08-21 15:13:07 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='sjdfi', deptName='sdfj', address=jshfj, sjf, 928374}
+2024-08-21 15:13:07 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='sjdfi', deptName='sdfj', address=jshfj, sjf, 928374}
+2024-08-21 15:13:07 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='sjdfi', deptName='sdfj', address=jshfj, sjf, 928374}
+2024-08-21 15:13:07 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='sjdfi', deptName='sdfj', address=jshfj, sjf, 928374}
+2024-08-21 15:13:07 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 15:16:57 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 15:17:15 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='hgfgfj', deptName='jhgj', address=ygj, fyiov, 5457678}
+2024-08-21 15:17:15 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='hgfgfj', deptName='jhgj', address=ygj, fyiov, 5457678}
+2024-08-21 15:17:15 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 15:17:15 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='hgfgfj', deptName='jhgj', address=ygj, fyiov, 5457678}
+2024-08-21 15:17:15 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='hgfgfj', deptName='jhgj', address=ygj, fyiov, 5457678}
+2024-08-21 15:17:15 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 15:41:04 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-21 15:41:36 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-21 15:41:50 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='jkdjd', address=jkdnfjdn, jdjd, 397462}
+2024-08-21 15:41:50 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='leela', deptName='jkdjd', address=jkdnfjdn, jdjd, 397462}
+2024-08-21 16:30:55 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@6d4d66d2
+2024-08-21 16:31:13 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='megha', deptName='lkjek', address=kdkd, kjejwe, 92376}
+2024-08-21 16:31:13 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='megha', deptName='lkjek', address=kdkd, kjejwe, 92376}
+2024-08-21 16:31:13 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 16:31:13 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='megha', deptName='lkjek', address=kdkd, kjejwe, 92376}
+2024-08-21 16:31:13 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='megha', deptName='lkjek', address=kdkd, kjejwe, 92376}
+2024-08-21 16:31:13 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 16:37:12 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@3e8c3cb
+2024-08-21 16:37:29 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='kjdf', address=kjdfnjd, dnjdn, 733762}
+2024-08-21 16:37:29 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='leela', deptName='kjdf', address=kjdfnjd, dnjdn, 733762}
+2024-08-21 16:37:29 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 16:37:29 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='kjdf', address=kjdfnjd, dnjdn, 733762}
+2024-08-21 16:37:29 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='kjdf', address=kjdfnjd, dnjdn, 733762}
+2024-08-21 16:37:29 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 16:42:05 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-21 16:42:25 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='jjdff', address=sjdhfjhf, jdhfjds, 876674}
+2024-08-21 16:42:25 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='leela', deptName='jjdff', address=sjdhfjhf, jdhfjds, 876674}
+2024-08-21 16:42:25 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 16:42:25 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='jjdff', address=sjdhfjhf, jdhfjds, 876674}
+2024-08-21 16:42:25 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='jjdff', address=sjdhfjhf, jdhfjds, 876674}
+2024-08-21 16:42:25 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 16:42:43 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1
+2024-08-21 16:42:43 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1
+2024-08-21 16:42:43 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 1 not found
+2024-08-21 16:42:43 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 1 not found
+2024-08-21 17:31:36 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-21 17:31:55 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='dfhjj', deptName='hghghf', address=hghg, hghjgh, 453436}
+2024-08-21 17:31:55 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='dfhjj', deptName='hghghf', address=hghg, hghjgh, 453436}
+2024-08-21 17:31:55 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 17:31:55 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='dfhjj', deptName='hghghf', address=hghg, hghjgh, 453436}
+2024-08-21 17:31:55 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='dfhjj', deptName='hghghf', address=hghg, hghjgh, 453436}
+2024-08-21 17:31:55 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 17:36:42 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-21 17:36:57 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='skldj', deptName='djfjd', address=dkfjkwe, lwefjjwen, 2973364}
+2024-08-21 17:36:57 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='skldj', deptName='djfjd', address=dkfjkwe, lwefjjwen, 2973364}
+2024-08-21 17:36:57 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 17:36:57 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='skldj', deptName='djfjd', address=dkfjkwe, lwefjjwen, 2973364}
+2024-08-21 17:36:57 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='skldj', deptName='djfjd', address=dkfjkwe, lwefjjwen, 2973364}
+2024-08-21 17:36:57 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 17:38:25 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-21 17:38:35 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kdhj', deptName='kjdkj', address=kejdkjd, ejdkjd, 233652}
+2024-08-21 17:38:35 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kdhj', deptName='kjdkj', address=kejdkjd, ejdkjd, 233652}
+2024-08-21 17:38:35 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 17:38:35 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kdhj', deptName='kjdkj', address=kejdkjd, ejdkjd, 233652}
+2024-08-21 17:38:35 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kdhj', deptName='kjdkj', address=kejdkjd, ejdkjd, 233652}
+2024-08-21 17:38:35 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 17:44:15 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@6d4d66d2
+2024-08-21 17:44:29 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='kjjef', address=kjf, kjej, 273286}
+2024-08-21 17:44:29 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='leela', deptName='kjjef', address=kjf, kjej, 273286}
+2024-08-21 17:44:29 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 17:44:29 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='kjjef', address=kjf, kjej, 273286}
+2024-08-21 17:44:29 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='kjjef', address=kjf, kjej, 273286}
+2024-08-21 17:44:29 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 17:47:39 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@173ed316
+2024-08-21 17:47:50 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kjdfj', deptName='kjfj', address=kwjfj, ekjrj, 235732}
+2024-08-21 17:47:50 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kjdfj', deptName='kjfj', address=kwjfj, ekjrj, 235732}
+2024-08-21 17:47:50 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 17:47:50 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kjdfj', deptName='kjfj', address=kwjfj, ekjrj, 235732}
+2024-08-21 17:47:50 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kjdfj', deptName='kjfj', address=kwjfj, ekjrj, 235732}
+2024-08-21 17:47:50 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 17:54:06 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-21 17:54:16 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kdjajd', deptName='akldjkj', address=lkdk, kdjd, 928374}
+2024-08-21 17:54:16 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kdjajd', deptName='akldjkj', address=lkdk, kdjd, 928374}
+2024-08-21 17:54:17 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 17:54:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kdjajd', deptName='akldjkj', address=lkdk, kdjd, 928374}
+2024-08-21 17:54:17 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kdjajd', deptName='akldjkj', address=lkdk, kdjd, 928374}
+2024-08-21 17:54:17 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 17:55:42 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-21 17:55:51 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kkdjf', deptName='lksdj', address=kdjfkj, skdjfj, 234234}
+2024-08-21 17:55:51 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kkdjf', deptName='lksdj', address=kdjfkj, skdjfj, 234234}
+2024-08-21 17:55:52 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 17:55:52 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kkdjf', deptName='lksdj', address=kdjfkj, skdjfj, 234234}
+2024-08-21 17:55:52 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kkdjf', deptName='lksdj', address=kdjfkj, skdjfj, 234234}
+2024-08-21 17:55:52 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 17:58:45 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-21 17:58:55 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='jjsdfs', deptName='sdffs', address=sdkfkj, sdfkls, 238427}
+2024-08-21 17:58:55 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='jjsdfs', deptName='sdffs', address=sdkfkj, sdfkls, 238427}
+2024-08-21 17:58:56 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 17:58:56 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='jjsdfs', deptName='sdffs', address=sdkfkj, sdfkls, 238427}
+2024-08-21 17:58:56 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='jjsdfs', deptName='sdffs', address=sdkfkj, sdfkls, 238427}
+2024-08-21 17:58:56 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 18:20:49 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@3e8c3cb
+2024-08-21 18:21:01 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kdjfj', deptName='ldkk', address=kdwjf, kejjweh, 2376364}
+2024-08-21 18:21:01 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kdjfj', deptName='ldkk', address=kdwjf, kejjweh, 2376364}
+2024-08-21 18:21:02 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 18:21:02 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kdjfj', deptName='ldkk', address=kdwjf, kejjweh, 2376364}
+2024-08-21 18:21:02 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kdjfj', deptName='ldkk', address=kdwjf, kejjweh, 2376364}
+2024-08-21 18:21:02 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 18:26:35 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@563f38c4
+2024-08-21 18:26:44 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='sjdj', deptName='kdjd', address=kfwhf, kjjwee, 237623}
+2024-08-21 18:26:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='sjdj', deptName='kdjd', address=kfwhf, kjjwee, 237623}
+2024-08-21 18:26:45 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 18:26:45 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='sjdj', deptName='kdjd', address=kfwhf, kjjwee, 237623}
+2024-08-21 18:26:45 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='sjdj', deptName='kdjd', address=kfwhf, kjjwee, 237623}
+2024-08-21 18:26:45 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 18:29:30 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-21 18:29:38 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kdjfjdhf', deptName='kjjef', address=dkjfjf, djfj, 983476}
+2024-08-21 18:29:38 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kdjfjdhf', deptName='kjjef', address=dkjfjf, djfj, 983476}
+2024-08-21 18:29:39 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 18:29:39 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kdjfjdhf', deptName='kjjef', address=dkjfjf, djfj, 983476}
+2024-08-21 18:29:39 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kdjfjdhf', deptName='kjjef', address=dkjfjf, djfj, 983476}
+2024-08-21 18:29:39 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 18:37:06 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-21 18:37:19 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='hh', deptName='wejuhe', address=eheh, weew, 2565656}
+2024-08-21 18:37:19 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='hh', deptName='wejuhe', address=eheh, weew, 2565656}
+2024-08-21 18:37:20 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 18:37:20 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='hh', deptName='wejuhe', address=eheh, weew, 2565656}
+2024-08-21 18:37:20 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='hh', deptName='wejuhe', address=eheh, weew, 2565656}
+2024-08-21 18:37:20 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 19:56:35 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-21 19:56:44 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='jsfjsh', deptName='ksdfjsjd', address=sfksdjf, sfjdf, 274632}
+2024-08-21 19:56:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='jsfjsh', deptName='ksdfjsjd', address=sfksdjf, sfjdf, 274632}
+2024-08-21 19:56:45 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 19:56:45 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='jsfjsh', deptName='ksdfjsjd', address=sfksdjf, sfjdf, 274632}
+2024-08-21 19:56:45 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='jsfjsh', deptName='ksdfjsjd', address=sfksdjf, sfjdf, 274632}
+2024-08-21 19:56:45 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 20:47:45 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-21 20:48:16 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='tfytfy', deptName='ygydt', address=tyhgjh, dgdhfh, 5685645}
+2024-08-21 20:48:16 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='tfytfy', deptName='ygydt', address=tyhgjh, dgdhfh, 5685645}
+2024-08-21 20:48:17 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 20:48:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='tfytfy', deptName='ygydt', address=tyhgjh, dgdhfh, 5685645}
+2024-08-21 20:48:17 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='tfytfy', deptName='ygydt', address=tyhgjh, dgdhfh, 5685645}
+2024-08-21 20:48:17 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 21:01:42 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@2c07545f
+2024-08-21 21:02:01 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='roopa', deptName='cse', address=tel, hyd, 67890}
+2024-08-21 21:02:54 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='roopa', deptName='cse', address=tel, hyd, 67890}
+2024-08-21 21:03:00 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 21:03:13 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='roopa', deptName='cse', address=tel, hyd, 67890}
+2024-08-21 21:03:15 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='roopa', deptName='cse', address=tel, hyd, 67890}
+2024-08-21 21:03:23 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 21:03:47 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@e57b96d
+2024-08-21 21:04:00 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='roopa', deptName='cse', address=tel, hyf, 34567}
+2024-08-21 21:04:37 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='roopa', deptName='cse', address=tel, hyf, 34567}
+2024-08-21 21:09:53 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 21:10:01 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='roopa', deptName='cse', address=tel, hyf, 34567}
+2024-08-21 21:10:15 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='roopa', deptName='cse', address=tel, hyf, 34567}
+2024-08-21 21:10:24 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 21:11:08 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@2c07545f
+2024-08-21 21:11:20 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='jhjfd', deptName='hjjgtf', address=gytfrs, jhgyr, 434657}
+2024-08-21 21:11:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='jhjfd', deptName='hjjgtf', address=gytfrs, jhgyr, 434657}
+2024-08-21 21:11:46 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 21:11:46 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='jhjfd', deptName='hjjgtf', address=gytfrs, jhgyr, 434657}
+2024-08-21 21:11:46 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='jhjfd', deptName='hjjgtf', address=gytfrs, jhgyr, 434657}
+2024-08-21 21:11:46 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 21:13:05 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-21 21:13:13 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kjkjt', deptName='kjkej', address=wtkj, jtkjre, 823747}
+2024-08-21 21:13:13 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kjkjt', deptName='kjkej', address=wtkj, jtkjre, 823747}
+2024-08-21 21:13:14 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 21:13:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kjkjt', deptName='kjkej', address=wtkj, jtkjre, 823747}
+2024-08-21 21:13:14 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kjkjt', deptName='kjkej', address=wtkj, jtkjre, 823747}
+2024-08-21 21:13:14 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 21:26:36 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-21 21:26:46 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='sjfsj', deptName='sjdfjn', address=ejrj3, jjfg, 234234}
+2024-08-21 21:26:46 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='sjfsj', deptName='sjdfjn', address=ejrj3, jjfg, 234234}
+2024-08-21 21:26:47 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 21:26:47 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='sjfsj', deptName='sjdfjn', address=ejrj3, jjfg, 234234}
+2024-08-21 21:26:47 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='sjfsj', deptName='sjdfjn', address=ejrj3, jjfg, 234234}
+2024-08-21 21:26:47 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 21:42:16 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-21 21:42:26 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kw', deptName='e', address=e, w, 323}
+2024-08-21 21:42:26 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kw', deptName='e', address=e, w, 323}
+2024-08-21 21:42:27 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 21:42:27 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kw', deptName='e', address=e, w, 323}
+2024-08-21 21:42:27 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kw', deptName='e', address=e, w, 323}
+2024-08-21 21:42:27 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:31:22 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-21 22:31:31 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='wk', deptName='kw', address=wkn, enk, 23}
+2024-08-21 22:31:31 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='wk', deptName='kw', address=wkn, enk, 23}
+2024-08-21 22:31:32 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 22:31:32 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='wk', deptName='kw', address=wkn, enk, 23}
+2024-08-21 22:31:32 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='wk', deptName='kw', address=wkn, enk, 23}
+2024-08-21 22:31:32 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:35:33 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@6d4d66d2
+2024-08-21 22:35:40 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kfksf', deptName='sfdf', address=skjdfjds, ksdfj, 234}
+2024-08-21 22:35:40 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kfksf', deptName='sfdf', address=skjdfjds, ksdfj, 234}
+2024-08-21 22:35:41 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 22:35:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kfksf', deptName='sfdf', address=skjdfjds, ksdfj, 234}
+2024-08-21 22:35:41 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kfksf', deptName='sfdf', address=skjdfjds, ksdfj, 234}
+2024-08-21 22:35:41 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:39:59 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-21 22:40:08 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='erjwenj', deptName='werwe', address=werwe, werk, 23434}
+2024-08-21 22:40:08 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='erjwenj', deptName='werwe', address=werwe, werk, 23434}
+2024-08-21 22:40:09 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-21 22:40:09 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='erjwenj', deptName='werwe', address=werwe, werk, 23434}
+2024-08-21 22:40:09 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='erjwenj', deptName='werwe', address=werwe, werk, 23434}
+2024-08-21 22:40:09 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:42:16 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@543295b0
+2024-08-21 22:42:25 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='sdfjnf', deptName='dkfmkmf', address=wekrkwe, wemrke, 123}
+2024-08-21 22:42:25 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='sdfjnf', deptName='dkfmkmf', address=wekrkwe, wemrke, 123}
+2024-08-21 22:42:25 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:42:25 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='sdfjnf', deptName='dkfmkmf', address=wekrkwe, wemrke, 123}
+2024-08-21 22:42:25 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='sdfjnf', deptName='dkfmkmf', address=wekrkwe, wemrke, 123}
+2024-08-21 22:42:25 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:43:57 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=street, Andhra, 234253}
+2024-08-21 22:43:57 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=2, empName='leela', deptName='development', address=street, Andhra, 234253}
+2024-08-21 22:43:57 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:43:57 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='leela', deptName='development', address=street, Andhra, 234253}
+2024-08-21 22:43:57 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='leela', deptName='development', address=street, Andhra, 234253}
+2024-08-21 22:43:57 [main] INFO  com.example.Main - Employee id 2:
+2024-08-21 22:45:33 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-21 22:45:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-21 22:47:13 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 22:47:28 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='jhfjhs', deptName='sjf', address=weqtttt, ttttt, 22222}
+2024-08-21 22:47:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='jhfjhs', deptName='sjf', address=weqtttt, ttttt, 22222}
+2024-08-21 22:47:28 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:47:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='jhfjhs', deptName='sjf', address=weqtttt, ttttt, 22222}
+2024-08-21 22:47:28 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='jhfjhs', deptName='sjf', address=weqtttt, ttttt, 22222}
+2024-08-21 22:47:28 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:47:48 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='fffffff', deptName='eeeeeeee', address=wwwwwwwwww, wrrrrrrrrr, 333333333}
+2024-08-21 22:47:48 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=2, empName='fffffff', deptName='eeeeeeee', address=wwwwwwwwww, wrrrrrrrrr, 333333333}
+2024-08-21 22:47:48 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:47:48 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='fffffff', deptName='eeeeeeee', address=wwwwwwwwww, wrrrrrrrrr, 333333333}
+2024-08-21 22:47:48 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='fffffff', deptName='eeeeeeee', address=wwwwwwwwww, wrrrrrrrrr, 333333333}
+2024-08-21 22:47:48 [main] INFO  com.example.Main - Employee id 2:
+2024-08-21 22:49:08 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 22:49:55 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@3e8c3cb
+2024-08-21 22:50:21 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=street, andhra, 531031}
+2024-08-21 22:50:21 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='leela', deptName='development', address=street, andhra, 531031}
+2024-08-21 22:50:21 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:50:21 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=street, andhra, 531031}
+2024-08-21 22:50:21 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=street, andhra, 531031}
+2024-08-21 22:50:21 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:50:34 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='sdjhfj', deptName='jrklnv', address=afdasda, erebhr, 23546}
+2024-08-21 22:50:34 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=2, empName='sdjhfj', deptName='jrklnv', address=afdasda, erebhr, 23546}
+2024-08-21 22:50:34 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:50:34 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='sdjhfj', deptName='jrklnv', address=afdasda, erebhr, 23546}
+2024-08-21 22:50:34 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='sdjhfj', deptName='jrklnv', address=afdasda, erebhr, 23546}
+2024-08-21 22:50:34 [main] INFO  com.example.Main - Employee id 2:
+2024-08-21 22:53:12 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 22:53:27 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='fhdsh', deptName='sdgh', address=sdlkf, sdf, 341234}
+2024-08-21 22:53:27 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='fhdsh', deptName='sdgh', address=sdlkf, sdf, 341234}
+2024-08-21 22:53:27 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:53:27 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='fhdsh', deptName='sdgh', address=sdlkf, sdf, 341234}
+2024-08-21 22:53:27 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='fhdsh', deptName='sdgh', address=sdlkf, sdf, 341234}
+2024-08-21 22:53:27 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:53:36 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-21 22:53:36 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-21 22:54:35 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 22:54:43 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='asjdsjd', deptName='kasjdh', address=aksjdsd, adjsd, 12323}
+2024-08-21 22:54:43 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='asjdsjd', deptName='kasjdh', address=aksjdsd, adjsd, 12323}
+2024-08-21 22:54:43 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:54:43 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='asjdsjd', deptName='kasjdh', address=aksjdsd, adjsd, 12323}
+2024-08-21 22:54:43 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='asjdsjd', deptName='kasjdh', address=aksjdsd, adjsd, 12323}
+2024-08-21 22:54:43 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:54:48 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1
+2024-08-21 22:54:48 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1
+2024-08-21 22:55:03 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@5b1669c0
+2024-08-21 22:55:14 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='fjj', deptName='asd', address=we, qfa, 231}
+2024-08-21 22:55:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='fjj', deptName='asd', address=we, qfa, 231}
+2024-08-21 22:55:14 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:55:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='fjj', deptName='asd', address=we, qfa, 231}
+2024-08-21 22:55:14 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='fjj', deptName='asd', address=we, qfa, 231}
+2024-08-21 22:55:14 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 22:55:41 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='megha', deptName='develop', address=weqw, qwsa, 2314}
+2024-08-21 22:55:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='megha', deptName='develop', address=weqw, qwsa, 2314}
+2024-08-21 22:56:11 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 22:56:23 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='skdj', deptName='alks', address=asd, asdh, 23435}
+2024-08-21 22:56:23 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='skdj', deptName='alks', address=asd, asdh, 23435}
+2024-08-21 22:56:23 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 22:56:23 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='skdj', deptName='alks', address=asd, asdh, 23435}
+2024-08-21 22:56:23 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='skdj', deptName='alks', address=asd, asdh, 23435}
+2024-08-21 22:56:23 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 23:09:33 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@2e8c1c9b
+2024-08-21 23:10:12 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='dhanush', deptName='engineering', address=jfhl, werfbaasf, 213343}
+2024-08-21 23:10:12 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='dhanush', deptName='engineering', address=jfhl, werfbaasf, 213343}
+2024-08-21 23:10:12 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 23:10:12 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='dhanush', deptName='engineering', address=jfhl, werfbaasf, 213343}
+2024-08-21 23:10:12 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='dhanush', deptName='engineering', address=jfhl, werfbaasf, 213343}
+2024-08-21 23:10:12 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 23:10:28 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-21 23:10:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-21 23:10:28 [main] INFO  com.example.Repository.EmployeeFileRepository - 
+2024-08-21 23:10:28 [main] INFO  com.example.Model.Employee - 
+2024-08-21 23:12:43 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 23:13:01 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='sfdsg', deptName='gsdasd', address=ttttttttt, asdd, 23142}
+2024-08-21 23:13:01 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='sfdsg', deptName='gsdasd', address=ttttttttt, asdd, 23142}
+2024-08-21 23:13:01 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 23:13:01 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='sfdsg', deptName='gsdasd', address=ttttttttt, asdd, 23142}
+2024-08-21 23:13:01 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='sfdsg', deptName='gsdasd', address=ttttttttt, asdd, 23142}
+2024-08-21 23:13:01 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 23:13:08 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-21 23:13:08 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-21 23:13:08 [main] INFO  com.example.Repository.EmployeeFileRepository - ********
+2024-08-21 23:13:08 [main] INFO  com.example.Model.Employee - 
+2024-08-21 23:18:46 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 23:18:58 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='agsg', deptName='sgsfb', address=qegsdb, afaz, 2342}
+2024-08-21 23:18:58 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='agsg', deptName='sgsfb', address=qegsdb, afaz, 2342}
+2024-08-21 23:18:58 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 23:18:59 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='agsg', deptName='sgsfb', address=qegsdb, afaz, 2342}
+2024-08-21 23:18:59 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='agsg', deptName='sgsfb', address=qegsdb, afaz, 2342}
+2024-08-21 23:18:59 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 23:19:04 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-21 23:19:04 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-21 23:19:04 [main] INFO  com.example.Repository.EmployeeFileRepository - ********
+2024-08-21 23:19:04 [main] INFO  com.example.Model.Employee - 
+2024-08-21 23:25:27 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 23:25:36 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='afa', deptName='adfsg', address=sgfh, sgsfg, 342341}
+2024-08-21 23:25:36 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='afa', deptName='adfsg', address=sgfh, sgsfg, 342341}
+2024-08-21 23:25:36 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 23:25:36 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='afa', deptName='adfsg', address=sgfh, sgsfg, 342341}
+2024-08-21 23:25:36 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='afa', deptName='adfsg', address=sgfh, sgsfg, 342341}
+2024-08-21 23:25:36 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 23:25:41 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-21 23:25:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-21 23:25:41 [main] INFO  com.example.Repository.EmployeeFileRepository - ********
+2024-08-21 23:25:41 [main] INFO  com.example.Repository.EmployeeFileRepository - ********
+2024-08-21 23:25:41 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=1, empName='dhanush', deptName='engineering', address=jfhl, werfbaasf, 213343}
+2024-08-21 23:25:41 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=1, empName='sfdsg', deptName='gsdasd', address=ttttttttt, asdd, 23142}
+2024-08-21 23:25:41 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=1, empName='agsg', deptName='sgsfb', address=qegsdb, afaz, 2342}
+2024-08-21 23:25:41 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=1, empName='afa', deptName='adfsg', address=sgfh, sgsfg, 342341}
+2024-08-21 23:25:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1
+2024-08-21 23:25:41 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1 deleted successfully.
+2024-08-21 23:26:06 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='addddddddddddddddddd', deptName='adfdf', address=adfdg, adfa, 1423545}
+2024-08-21 23:26:06 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=2, empName='addddddddddddddddddd', deptName='adfdf', address=adfdg, adfa, 1423545}
+2024-08-21 23:26:06 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 23:26:06 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='addddddddddddddddddd', deptName='adfdf', address=adfdg, adfa, 1423545}
+2024-08-21 23:26:06 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='addddddddddddddddddd', deptName='adfdf', address=adfdg, adfa, 1423545}
+2024-08-21 23:26:06 [main] INFO  com.example.Main - Employee id 2:
+2024-08-21 23:26:16 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 2
+2024-08-21 23:26:16 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 2
+2024-08-21 23:26:16 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:26:16 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:26:16 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:26:16 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:26:16 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:26:16 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:26:16 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=2, empName='addddddddddddddddddd', deptName='adfdf', address=adfdg, adfa, 1423545}
+2024-08-21 23:26:16 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 2 not found
+2024-08-21 23:26:16 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 2 not found
+2024-08-21 23:36:08 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-21 23:36:23 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='jjjjjjj', deptName='hhhhhhhhhh', address=uuuu, bbbb, 6765}
+2024-08-21 23:36:23 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='jjjjjjj', deptName='hhhhhhhhhh', address=uuuu, bbbb, 6765}
+2024-08-21 23:36:23 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 23:36:23 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='jjjjjjj', deptName='hhhhhhhhhh', address=uuuu, bbbb, 6765}
+2024-08-21 23:36:23 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='jjjjjjj', deptName='hhhhhhhhhh', address=uuuu, bbbb, 6765}
+2024-08-21 23:36:23 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 23:36:33 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1
+2024-08-21 23:36:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1
+2024-08-21 23:36:33 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:36:33 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:36:33 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:36:33 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:36:33 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:36:33 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:36:33 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=2, empName='addddddddddddddddddd', deptName='adfdf', address=adfdg, adfa, 1423545}
+2024-08-21 23:36:33 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=1, empName='jjjjjjj', deptName='hhhhhhhhhh', address=uuuu, bbbb, 6765}
+2024-08-21 23:36:33 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 1 not found
+2024-08-21 23:36:33 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 1 not found
+2024-08-21 23:39:56 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@7674f035
+2024-08-21 23:40:09 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='eeeee', deptName='hhhhhh', address=jjjjjjjjj, hhhh, 56757}
+2024-08-21 23:40:09 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='eeeee', deptName='hhhhhh', address=jjjjjjjjj, hhhh, 56757}
+2024-08-21 23:40:09 [main] INFO  com.example.Repository.EmployeeFileRepository - File added successfully.
+2024-08-21 23:40:09 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='eeeee', deptName='hhhhhh', address=jjjjjjjjj, hhhh, 56757}
+2024-08-21 23:40:09 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='eeeee', deptName='hhhhhh', address=jjjjjjjjj, hhhh, 56757}
+2024-08-21 23:40:09 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 23:40:22 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:40:22 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:40:22 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:40:22 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:40:22 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:40:22 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:40:22 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=2, empName='addddddddddddddddddd', deptName='adfdf', address=adfdg, adfa, 1423545}
+2024-08-21 23:40:22 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=1, empName='jjjjjjj', deptName='hhhhhhhhhh', address=uuuu, bbbb, 6765}
+2024-08-21 23:40:22 [main] INFO  com.example.Repository.EmployeeFileRepository - ********Employee{empId=1, empName='eeeee', deptName='hhhhhh', address=jjjjjjjjj, hhhh, 56757}
+2024-08-21 23:50:29 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@3e8c3cb
+2024-08-21 23:50:44 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='yubuh', deptName='hhubbu', address=ubhbu, uby, 87989}
+2024-08-21 23:50:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='yubuh', deptName='hhubbu', address=ubhbu, uby, 87989}
+2024-08-21 23:50:44 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='yubuh', deptName='hhubbu', address=ubhbu, uby, 87989}
+2024-08-21 23:50:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='yubuh', deptName='hhubbu', address=ubhbu, uby, 87989}
+2024-08-21 23:50:44 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='yubuh', deptName='hhubbu', address=ubhbu, uby, 87989}
+2024-08-21 23:50:44 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 23:50:53 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-21 23:50:53 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=2, empName='addddddddddddddddddd', deptName='adfdf', address=adfdg, adfa, 1423545}
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='jjjjjjj', deptName='hhhhhhhhhh', address=uuuu, bbbb, 6765}
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='eeeee', deptName='hhhhhh', address=jjjjjjjjj, hhhh, 56757}
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='yubuh', deptName='hhubbu', address=ubhbu, uby, 87989}
+2024-08-21 23:50:53 [main] WARN  com.example.Repository.EmployeeFileRepository - Employee with ID 1 not found.
+2024-08-21 23:50:53 [main] INFO  com.example.Repository.EmployeeFileRepository - All employees written to file successfully.
+2024-08-21 23:50:53 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1
+2024-08-21 23:50:53 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1 deleted successfully.
+2024-08-21 23:51:11 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-21 23:51:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-21 23:51:11 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-21 23:51:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-21 23:51:11 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-21 23:51:11 [main] INFO  com.example.Main - Employee id 2:
+2024-08-21 23:51:21 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 2
+2024-08-21 23:51:21 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 2
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:51:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-21 23:51:21 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 2 not found
+2024-08-21 23:51:21 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 2 not found
+2024-08-21 23:51:54 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@3e8c3cb
+2024-08-21 23:52:11 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-21 23:52:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-21 23:52:11 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-21 23:52:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-21 23:52:11 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-21 23:52:11 [main] INFO  com.example.Main - Employee id 1:
+2024-08-21 23:52:37 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='leela', deptName='bjnj', address=lk, jn, 789678}
+2024-08-21 23:52:37 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='leela', deptName='bjnj', address=lk, jn, 789678}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-21 23:52:37 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-21 23:52:37 [main] WARN  com.example.Repository.EmployeeFileRepository - Employee with ID 1 not found. Update operation failed.
+2024-08-21 23:52:37 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='leela', deptName='bjnj', address=lk, jn, 789678}
+2024-08-21 23:52:37 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='leela', deptName='bjnj', address=lk, jn, 789678}
+2024-08-21 23:52:37 [main] INFO  com.example.Main - Employee id 0:
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-21 23:53:09 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-22 07:42:26 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-22 07:42:38 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kljh', deptName='iugyf', address=jskgs, rtrgf, 245456}
+2024-08-22 07:42:38 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=1, empName='kljh', deptName='iugyf', address=jskgs, rtrgf, 245456}
+2024-08-22 07:42:38 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='kljh', deptName='iugyf', address=jskgs, rtrgf, 245456}
+2024-08-22 07:42:39 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='kljh', deptName='iugyf', address=jskgs, rtrgf, 245456}
+2024-08-22 07:42:39 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='kljh', deptName='iugyf', address=jskgs, rtrgf, 245456}
+2024-08-22 07:42:39 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 07:42:48 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-22 07:42:48 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-22 07:42:48 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='kljh', deptName='iugyf', address=jskgs, rtrgf, 245456}
+2024-08-22 08:53:10 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-22 08:53:23 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='lakdf', address=alskj, alksj, 123}
+2024-08-22 08:53:23 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='lakdf', address=alskj, alksj, 123}
+2024-08-22 08:53:23 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='lakdf', address=alskj, alksj, 123}
+2024-08-22 08:53:23 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='lakdf', address=alskj, alksj, 123}
+2024-08-22 08:53:23 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 08:53:50 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@543295b0
+2024-08-22 08:54:02 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='alksjd', address=aksdk, akd, 23435}
+2024-08-22 08:54:02 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='alksjd', address=aksdk, akd, 23435}
+2024-08-22 08:54:02 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='alksjd', address=aksdk, akd, 23435}
+2024-08-22 08:54:02 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='alksjd', address=aksdk, akd, 23435}
+2024-08-22 08:54:02 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 08:54:11 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='lkkkdfk', deptName='dlskf', address=sdfk, wekj, 3435}
+2024-08-22 08:54:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='lkkkdfk', deptName='dlskf', address=sdfk, wekj, 3435}
+2024-08-22 08:54:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='lkkkdfk', deptName='dlskf', address=sdfk, wekj, 3435}
+2024-08-22 08:54:11 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='lkkkdfk', deptName='dlskf', address=sdfk, wekj, 3435}
+2024-08-22 08:54:11 [main] INFO  com.example.Main - Employee id 2:
+2024-08-22 08:54:21 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-22 08:54:21 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-22 08:54:21 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - hello hi hi
+2024-08-22 08:54:21 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1
+2024-08-22 08:54:21 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1 deleted successfully.
+2024-08-22 08:54:35 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 2
+2024-08-22 08:54:35 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 2
+2024-08-22 08:54:35 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-22 08:54:35 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=2, empName='lkkkdfk', deptName='dlskf', address=sdfk, wekj, 3435}
+2024-08-22 08:54:35 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=2, empName='lkkkdfk', deptName='dlskf', address=sdfk, wekj, 3435}
+2024-08-22 08:54:52 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='leela', deptName='aslkdjk', address=akd, akljd, 234}
+2024-08-22 08:54:52 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='leela', deptName='aslkdjk', address=akd, akljd, 234}
+2024-08-22 08:54:52 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='leela', deptName='aslkdjk', address=akd, akljd, 234}
+2024-08-22 08:54:52 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='leela', deptName='aslkdjk', address=akd, akljd, 234}
+2024-08-22 08:54:52 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 08:55:22 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='roopa', deptName='akld', address=akd, akj, 234234}
+2024-08-22 08:55:22 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='roopa', deptName='akld', address=akd, akj, 234234}
+2024-08-22 08:55:22 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='roopa', deptName='akld', address=akd, akj, 234234}
+2024-08-22 08:55:22 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='roopa', deptName='akld', address=akd, akj, 234234}
+2024-08-22 08:55:22 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 08:57:54 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-22 08:58:03 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='aslkjd', deptName='askd', address=askd, askd, 2345}
+2024-08-22 08:58:03 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='aslkjd', deptName='askd', address=askd, askd, 2345}
+2024-08-22 08:58:03 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='aslkjd', deptName='askd', address=askd, askd, 2345}
+2024-08-22 08:58:03 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='aslkjd', deptName='askd', address=askd, askd, 2345}
+2024-08-22 08:58:03 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 08:58:10 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='akkf', deptName='alfkdlkf', address=alfkkf, akfk, 3435}
+2024-08-22 08:58:10 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='akkf', deptName='alfkdlkf', address=alfkkf, akfk, 3435}
+2024-08-22 08:58:10 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='akkf', deptName='alfkdlkf', address=alfkkf, akfk, 3435}
+2024-08-22 08:58:10 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='akkf', deptName='alfkdlkf', address=alfkkf, akfk, 3435}
+2024-08-22 08:58:10 [main] INFO  com.example.Main - Employee id 2:
+2024-08-22 08:58:28 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='leel', deptName='alsk', address=akfk, kdkf, 2345}
+2024-08-22 08:58:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='leel', deptName='alsk', address=akfk, kdkf, 2345}
+2024-08-22 08:58:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='leel', deptName='alsk', address=akfk, kdkf, 2345}
+2024-08-22 08:58:28 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='leel', deptName='alsk', address=akfk, kdkf, 2345}
+2024-08-22 08:58:28 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 09:02:12 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@543295b0
+2024-08-22 09:02:20 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='askdmkd', deptName='lskdskd', address=asdkkd, smdksd, 3425}
+2024-08-22 09:02:20 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='askdmkd', deptName='lskdskd', address=asdkkd, smdksd, 3425}
+2024-08-22 09:02:20 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='askdmkd', deptName='lskdskd', address=asdkkd, smdksd, 3425}
+2024-08-22 09:02:20 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='askdmkd', deptName='lskdskd', address=asdkkd, smdksd, 3425}
+2024-08-22 09:02:20 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 09:02:33 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kjfkjdf', deptName='kdjfkjdf', address=kdfkd, kdf, 2345}
+2024-08-22 09:02:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='kjfkjdf', deptName='kdjfkjdf', address=kdfkd, kdf, 2345}
+2024-08-22 09:02:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='kjfkjdf', deptName='kdjfkjdf', address=kdfkd, kdf, 2345}
+2024-08-22 09:02:33 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='kjfkjdf', deptName='kdjfkjdf', address=kdfkd, kdf, 2345}
+2024-08-22 09:02:33 [main] INFO  com.example.Main - Employee id 2:
+2024-08-22 09:02:48 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='leela', deptName='kakdf', address=kadfk, dkdk, 234}
+2024-08-22 09:02:48 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='leela', deptName='kakdf', address=kadfk, dkdk, 234}
+2024-08-22 09:02:48 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='leela', deptName='kakdf', address=kadfk, dkdk, 234}
+2024-08-22 09:02:48 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='leela', deptName='kakdf', address=kadfk, dkdk, 234}
+2024-08-22 09:02:48 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 09:03:52 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 0
+2024-08-22 09:03:52 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 0
+2024-08-22 09:03:52 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-22 09:03:52 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 0 not found
+2024-08-22 09:03:52 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 0 not found
+2024-08-22 09:08:49 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-22 09:09:00 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='afkdkf', address=akfkd, afkdf, 34345}
+2024-08-22 09:09:00 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='afkdkf', address=akfkd, afkdf, 34345}
+2024-08-22 09:09:00 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='afkdkf', address=akfkd, afkdf, 34345}
+2024-08-22 09:09:00 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='afkdkf', address=akfkd, afkdf, 34345}
+2024-08-22 09:09:00 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 09:09:06 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='kdsfkdf', deptName='dfkdkf', address=dflks, lfkdf, 234}
+2024-08-22 09:09:06 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='kdsfkdf', deptName='dfkdkf', address=dflks, lfkdf, 234}
+2024-08-22 09:09:06 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='kdsfkdf', deptName='dfkdkf', address=dflks, lfkdf, 234}
+2024-08-22 09:09:06 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='kdsfkdf', deptName='dfkdkf', address=dflks, lfkdf, 234}
+2024-08-22 09:09:06 [main] INFO  com.example.Main - Employee id 2:
+2024-08-22 09:09:25 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='kdfjfjf', deptName='kjdkj', address=kdk, kjj, 23445}
+2024-08-22 09:09:25 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='kdfjfjf', deptName='kjdkj', address=kdk, kjj, 23445}
+2024-08-22 09:09:25 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='kdfjfjf', deptName='kjdkj', address=kdk, kjj, 23445}
+2024-08-22 09:09:25 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='kdfjfjf', deptName='kjdkj', address=kdk, kjj, 23445}
+2024-08-22 09:09:25 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 09:09:38 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-22 09:09:38 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-22 09:09:38 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - hello hi hi
+2024-08-22 09:09:38 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1
+2024-08-22 09:09:38 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1 deleted successfully.
+2024-08-22 09:14:00 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@6d4d66d2
+2024-08-22 09:14:08 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='skdjfkd', deptName='kdfkd', address=kdfkdfj, kdfkdjf, 2345}
+2024-08-22 09:14:08 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='skdjfkd', deptName='kdfkd', address=kdfkdfj, kdfkdjf, 2345}
+2024-08-22 09:14:08 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-22 09:14:08 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-22 09:14:08 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='kljh', deptName='iugyf', address=jskgs, rtrgf, 245456}
+2024-08-22 09:14:08 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='skdjfkd', deptName='kdfkd', address=kdfkdfj, kdfkdjf, 2345}
+2024-08-22 09:14:08 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='skdjfkd', deptName='kdfkd', address=kdfkdfj, kdfkdjf, 2345}
+2024-08-22 09:14:08 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='skdjfkd', deptName='kdfkd', address=kdfkdfj, kdfkdjf, 2345}
+2024-08-22 09:14:08 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 09:14:21 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='dfkdf', deptName='ldfkf', address=lkfdkf, dlfklf, 1244}
+2024-08-22 09:14:21 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='dfkdf', deptName='ldfkf', address=lkfdkf, dlfklf, 1244}
+2024-08-22 09:14:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-22 09:14:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-22 09:14:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='kljh', deptName='iugyf', address=jskgs, rtrgf, 245456}
+2024-08-22 09:14:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='skdjfkd', deptName='kdfkd', address=kdfkdfj, kdfkdjf, 2345}
+2024-08-22 09:14:21 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='dfkdf', deptName='ldfkf', address=lkfdkf, dlfklf, 1244}
+2024-08-22 09:14:21 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='dfkdf', deptName='ldfkf', address=lkfdkf, dlfklf, 1244}
+2024-08-22 09:14:21 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='dfkdf', deptName='ldfkf', address=lkfdkf, dlfklf, 1244}
+2024-08-22 09:14:21 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 09:14:28 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-22 09:14:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-22 09:14:28 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=2, empName='gvkbjjk', deptName='hjjkbk', address=hkjnm, xdtcvc, 778890}
+2024-08-22 09:14:28 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='vghjn', deptName='hgyuguih', address=jjn, vyugbun, 878657}
+2024-08-22 09:14:28 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='kljh', deptName='iugyf', address=jskgs, rtrgf, 245456}
+2024-08-22 09:14:28 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='skdjfkd', deptName='kdfkd', address=kdfkdfj, kdfkdjf, 2345}
+2024-08-22 09:14:28 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='dfkdf', deptName='ldfkf', address=lkfdkf, dlfklf, 1244}
+2024-08-22 09:14:28 [main] WARN  com.example.Repository.EmployeeFileRepository - Employee with ID 1 not found.
+2024-08-22 09:14:28 [main] INFO  com.example.Repository.EmployeeFileRepository - All employees written to file successfully.
+2024-08-22 09:14:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1
+2024-08-22 09:14:28 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1 deleted successfully.
+2024-08-22 09:14:35 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-22 09:14:35 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-22 09:14:35 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-22 09:14:35 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-22 09:14:35 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=0, empName='', deptName='null', address=null}
+2024-08-22 10:07:24 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-22 10:07:34 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='lakf', address=akfjfj, akd, 23254}
+2024-08-22 10:07:34 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='lakf', address=akfjfj, akd, 23254}
+2024-08-22 10:07:36 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-22 10:07:36 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=0, empName='leela', deptName='lakf', address=akfjfj, akd, 23254}
+2024-08-22 10:07:36 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=0, empName='leela', deptName='lakf', address=akfjfj, akd, 23254}
+2024-08-22 10:07:36 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 10:10:34 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@3e8c3cb
+2024-08-22 10:11:31 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='megha', deptName='it', address=mahesh, nagar, 452002}
+2024-08-22 10:11:31 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='megha', deptName='it', address=mahesh, nagar, 452002}
+2024-08-22 10:11:32 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-22 10:11:32 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=0, empName='megha', deptName='it', address=mahesh, nagar, 452002}
+2024-08-22 10:11:32 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=0, empName='megha', deptName='it', address=mahesh, nagar, 452002}
+2024-08-22 10:11:32 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 10:13:40 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-22 10:13:56 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='megha', deptName='it', address=12, mp, 452002}
+2024-08-22 10:13:56 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='megha', deptName='it', address=12, mp, 452002}
+2024-08-22 10:13:57 [main] WARN  com.example.Repository.EmployeeDBRepository - error in adding
+2024-08-22 10:13:57 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=0, empName='megha', deptName='it', address=12, mp, 452002}
+2024-08-22 10:13:57 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=0, empName='megha', deptName='it', address=12, mp, 452002}
+2024-08-22 10:13:57 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 10:57:47 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@3e8c3cb
+2024-08-22 10:58:01 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='kljfhf', address=kfjf, lkdjf, 23445}
+2024-08-22 10:58:01 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='kljfhf', address=kfjf, lkdjf, 23445}
+2024-08-22 10:58:01 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 10:58:01 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=18, empName='leela', deptName='kljfhf', address=kfjf, lkdjf, 23445}
+2024-08-22 10:58:01 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=18, empName='leela', deptName='kljfhf', address=kfjf, lkdjf, 23445}
+2024-08-22 10:58:01 [main] INFO  com.example.Main - Employee id 18:
+2024-08-22 11:23:57 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@3e8c3cb
+2024-08-22 11:24:42 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-22 11:25:08 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='megha', deptName='it', address=lksdj, mp, 323123}
+2024-08-22 11:25:08 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='megha', deptName='it', address=lksdj, mp, 323123}
+2024-08-22 11:25:08 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 11:25:08 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=19, empName='megha', deptName='it', address=lksdj, mp, 323123}
+2024-08-22 11:25:08 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=19, empName='megha', deptName='it', address=lksdj, mp, 323123}
+2024-08-22 11:25:08 [main] INFO  com.example.Main - Employee id 19:
+2024-08-22 11:25:12 [main] WARN  com.example.Repository.EmployeeDBRepository - Error in fetching employees Column 'EMP_ID' not found.
+2024-08-22 11:25:12 [main] WARN  com.example.Main - employees list is null
+2024-08-22 11:26:53 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-22 11:27:10 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='megha', deptName='laskjd', address=jsdaf, mp, 123142}
+2024-08-22 11:27:10 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='megha', deptName='laskjd', address=jsdaf, mp, 123142}
+2024-08-22 11:27:10 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 11:27:10 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=20, empName='megha', deptName='laskjd', address=jsdaf, mp, 123142}
+2024-08-22 11:27:10 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=20, empName='megha', deptName='laskjd', address=jsdaf, mp, 123142}
+2024-08-22 11:27:10 [main] INFO  com.example.Main - Employee id 20:
+2024-08-22 11:34:57 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-22 11:35:24 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='roopa', deptName='development', address=kjskfj, lskjr, 2487}
+2024-08-22 11:35:24 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='roopa', deptName='development', address=kjskfj, lskjr, 2487}
+2024-08-22 11:35:25 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 11:35:25 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=21, empName='roopa', deptName='development', address=kjskfj, lskjr, 2487}
+2024-08-22 11:35:25 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=21, empName='roopa', deptName='development', address=kjskfj, lskjr, 2487}
+2024-08-22 11:35:25 [main] INFO  com.example.Main - Employee id 21:
+2024-08-22 11:36:57 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@3e8c3cb
+2024-08-22 11:37:10 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='akfkf', deptName='akjf', address=alkjf, akfj, 214354}
+2024-08-22 11:37:10 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='akfkf', deptName='akjf', address=alkjf, akfj, 214354}
+2024-08-22 11:37:11 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 11:37:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=22, empName='akfkf', deptName='akjf', address=alkjf, akfj, 214354}
+2024-08-22 11:37:11 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=22, empName='akfkf', deptName='akjf', address=alkjf, akfj, 214354}
+2024-08-22 11:37:11 [main] INFO  com.example.Main - Employee id 22:
+2024-08-22 11:53:09 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='kjjfa', address=a;lf, iioew, 2423}
+2024-08-22 11:53:09 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='kjjfa', address=a;lf, iioew, 2423}
+2024-08-22 11:53:09 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 11:53:09 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=23, empName='leela', deptName='kjjfa', address=a;lf, iioew, 2423}
+2024-08-22 11:53:09 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=23, empName='leela', deptName='kjjfa', address=a;lf, iioew, 2423}
+2024-08-22 11:53:09 [main] INFO  com.example.Main - Employee id 23:
+2024-08-22 11:58:04 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-22 12:00:24 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-22 12:00:30 [main] WARN  com.example.Main - employees list is null
+2024-08-22 12:00:49 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-22 12:00:49 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-22 12:00:49 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 12:00:49 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-22 12:00:49 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-22 12:00:49 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 12:01:55 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-22 12:02:04 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='lakjf', deptName='akad', address=akljf, kfka, 23452}
+2024-08-22 12:02:04 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='lakjf', deptName='akad', address=akljf, kfka, 23452}
+2024-08-22 12:02:05 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 12:02:05 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='lakjf', deptName='akad', address=akljf, kfka, 23452}
+2024-08-22 12:02:05 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='lakjf', deptName='akad', address=akljf, kfka, 23452}
+2024-08-22 12:02:05 [main] INFO  com.example.Main - Employee id 2:
+2024-08-22 12:03:27 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@563f38c4
+2024-08-22 12:07:16 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@25ce9dc4
+2024-08-22 12:09:10 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@563f38c4
+2024-08-22 12:09:28 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-22 12:09:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-22 12:09:28 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1
+2024-08-22 12:09:28 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 1 deleted successfully.
+2024-08-22 12:20:43 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@74ea2410
+2024-08-22 12:21:03 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='megha', deptName='development', address=something, mp, 242352}
+2024-08-22 12:21:03 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='megha', deptName='development', address=something, mp, 242352}
+2024-08-22 12:21:04 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 12:21:04 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=3, empName='megha', deptName='development', address=something, mp, 242352}
+2024-08-22 12:21:04 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=3, empName='megha', deptName='development', address=something, mp, 242352}
+2024-08-22 12:21:04 [main] INFO  com.example.Main - Employee id 3:
+2024-08-22 12:21:31 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 2
+2024-08-22 12:21:31 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 2
+2024-08-22 12:21:31 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee deleted successfully.
+2024-08-22 12:21:31 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 2
+2024-08-22 12:21:31 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 2 deleted successfully.
+2024-08-22 12:21:42 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 3
+2024-08-22 12:21:42 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 3
+2024-08-22 12:21:43 [main] WARN  com.example.Repository.EmployeeDBRepository - Error in fetching employee: Unknown column 'EMP_ID' in 'where clause'
+2024-08-22 12:21:43 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 3 not found
+2024-08-22 12:21:43 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 3 not found
+2024-08-22 12:22:46 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@78e4deb0
+2024-08-22 12:23:11 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='roopa', deptName='it', address=lkasjd, telangana, 223432}
+2024-08-22 12:23:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='roopa', deptName='it', address=lkasjd, telangana, 223432}
+2024-08-22 12:23:12 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 12:23:12 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=4, empName='roopa', deptName='it', address=lkasjd, telangana, 223432}
+2024-08-22 12:23:12 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=4, empName='roopa', deptName='it', address=lkasjd, telangana, 223432}
+2024-08-22 12:23:12 [main] INFO  com.example.Main - Employee id 4:
+2024-08-22 12:23:33 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 4
+2024-08-22 12:23:33 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 4
+2024-08-22 12:23:33 [main] WARN  com.example.Repository.EmployeeDBRepository - Error in fetching employee: Column 'CITY' not found.
+2024-08-22 12:23:33 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 4 not found
+2024-08-22 12:23:33 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 4 not found
+2024-08-22 12:24:16 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@563f38c4
+2024-08-22 12:24:42 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='ROOPA', deptName='IT', address=LAKJD, TEL, 292847}
+2024-08-22 12:24:42 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='ROOPA', deptName='IT', address=LAKJD, TEL, 292847}
+2024-08-22 12:24:43 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee updated successfully.
+2024-08-22 12:24:43 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='ROOPA', deptName='IT', address=LAKJD, TEL, 292847}
+2024-08-22 12:24:43 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='ROOPA', deptName='IT', address=LAKJD, TEL, 292847}
+2024-08-22 12:24:43 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 12:25:17 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1
+2024-08-22 12:25:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1
+2024-08-22 12:25:17 [main] WARN  com.example.Repository.EmployeeDBRepository - Error in fetching employee: Column 'CITY' not found.
+2024-08-22 12:25:17 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 1 not found
+2024-08-22 12:25:17 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 1 not found
+2024-08-22 12:26:20 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@74ea2410
+2024-08-22 12:26:32 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1
+2024-08-22 12:26:32 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1
+2024-08-22 12:26:32 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=0, empName='leela', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-22 12:26:32 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=0, empName='leela', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-22 12:27:12 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-22 12:28:05 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:28:05 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:28:05 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:28:05 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:28:05 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:28:05 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 12:28:16 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:31:36 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@25ce9dc4
+2024-08-22 12:31:56 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 12:31:56 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 12:31:56 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:31:56 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 12:31:56 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 12:31:56 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 12:31:56 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 12:32:02 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:32:02 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 12:35:50 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@3e8c3cb
+2024-08-22 12:36:38 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+2024-08-22 12:36:38 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+2024-08-22 12:36:38 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:36:38 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 12:36:38 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+2024-08-22 12:36:38 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+2024-08-22 12:36:38 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+2024-08-22 12:36:38 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 12:36:42 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:36:42 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 12:36:42 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+2024-08-22 12:39:42 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@3e8c3cb
+2024-08-22 12:39:55 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 12:39:55 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 12:39:55 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+2024-08-22 12:41:24 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-22 12:41:44 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=skdjhf, kjhjahf, 2938724}
+2024-08-22 12:41:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=skdjhf, kjhjahf, 2938724}
+2024-08-22 12:41:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=skdjhf, kjhjahf, 2938724}
+2024-08-22 12:41:44 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=skdjhf, kjhjahf, 2938724}
+2024-08-22 12:41:44 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 12:41:59 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='fjhjhf', deptName='kdfjjf', address=kaf, 234, 3424}
+2024-08-22 12:41:59 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='fjhjhf', deptName='kdfjjf', address=kaf, 234, 3424}
+2024-08-22 12:41:59 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=2, empName='fjhjhf', deptName='kdfjjf', address=kaf, 234, 3424}
+2024-08-22 12:41:59 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=2, empName='fjhjhf', deptName='kdfjjf', address=kaf, 234, 3424}
+2024-08-22 12:41:59 [main] INFO  com.example.Main - Employee id 2:
+2024-08-22 12:42:12 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 2
+2024-08-22 12:42:12 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 2
+2024-08-22 12:42:12 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - hello hi hi
+2024-08-22 12:42:12 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 2
+2024-08-22 12:42:12 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 2 deleted successfully.
+2024-08-22 12:42:41 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='leela', deptName='lakfj', address=lkafj, lkdjf, 2344}
+2024-08-22 12:42:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='leela', deptName='lakfj', address=lkafj, lkdjf, 2344}
+2024-08-22 12:42:41 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='leela', deptName='lakfj', address=lkafj, lkdjf, 2344}
+2024-08-22 12:42:41 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='leela', deptName='lakfj', address=lkafj, lkdjf, 2344}
+2024-08-22 12:42:41 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 12:42:51 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1
+2024-08-22 12:42:51 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1
+2024-08-22 12:42:51 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-22 12:42:51 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=0, empName='leela', deptName='lakfj', address=lkafj, lkdjf, 2344}
+2024-08-22 12:42:51 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=0, empName='leela', deptName='lakfj', address=lkafj, lkdjf, 2344}
+2024-08-22 12:44:18 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@3e8c3cb
+2024-08-22 12:44:43 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=street, ap, 28734}
+2024-08-22 12:44:43 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='development', address=street, ap, 28734}
+2024-08-22 12:44:43 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=street, ap, 28734}
+2024-08-22 12:44:43 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='development', address=street, ap, 28734}
+2024-08-22 12:44:43 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 12:45:07 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='roopa', deptName='development', address=jjf, kfj, 23423}
+2024-08-22 12:45:07 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='roopa', deptName='development', address=jjf, kfj, 23423}
+2024-08-22 12:45:07 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='roopa', deptName='development', address=jjf, kfj, 23423}
+2024-08-22 12:45:07 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='roopa', deptName='development', address=jjf, kfj, 23423}
+2024-08-22 12:45:07 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 12:47:06 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1
+2024-08-22 12:47:06 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1
+2024-08-22 12:47:06 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-22 12:47:06 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=0, empName='roopa', deptName='development', address=jjf, kfj, 23423}
+2024-08-22 12:47:06 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=0, empName='roopa', deptName='development', address=jjf, kfj, 23423}
+2024-08-22 12:47:14 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 0
+2024-08-22 12:47:14 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 0
+2024-08-22 12:47:14 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-22 12:47:14 [main] WARN  com.example.Service.EmployeeServiceImpl - Employee with ID: 0 not found
+2024-08-22 12:47:14 [main] WARN  com.example.Controller.EmployeeController - Employee with ID: 0 not found
+2024-08-22 12:52:24 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-22 12:53:16 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-22 12:53:29 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='samplr', deptName='s', address=s, s, 455444}
+2024-08-22 12:53:29 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='samplr', deptName='s', address=s, s, 455444}
+2024-08-22 12:53:29 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='samplr', deptName='s', address=s, s, 455444}
+2024-08-22 12:53:29 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='samplr', deptName='s', address=s, s, 455444}
+2024-08-22 12:53:29 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 12:54:47 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='jjkj', deptName='jn', address=jn, jn, 656788}
+2024-08-22 12:54:47 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='jjkj', deptName='jn', address=jn, jn, 656788}
+2024-08-22 12:54:47 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='jjkj', deptName='jn', address=jn, jn, 656788}
+2024-08-22 12:54:47 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='jjkj', deptName='jn', address=jn, jn, 656788}
+2024-08-22 12:54:47 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 12:58:01 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@63fbfaeb
+2024-08-22 12:58:09 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='sa', deptName='sa', address=sa, sa, 34555}
+2024-08-22 12:58:09 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='sa', deptName='sa', address=sa, sa, 34555}
+2024-08-22 12:58:09 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='sa', deptName='sa', address=sa, sa, 34555}
+2024-08-22 12:58:09 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='sa', deptName='sa', address=sa, sa, 34555}
+2024-08-22 12:58:09 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 12:59:32 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='c', deptName='sd', address=sd, sd, 2443}
+2024-08-22 12:59:36 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='c', deptName='sd', address=sd, sd, 2443}
+2024-08-22 12:59:36 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='c', deptName='sd', address=sd, sd, 2443}
+2024-08-22 12:59:50 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='c', deptName='sd', address=sd, sd, 2443}
+2024-08-22 12:59:50 [main] INFO  com.example.Main - Employee id 0:
+2024-08-22 13:10:07 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeInMemoryRepository@25ce9dc4
+2024-08-22 13:10:17 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='sjda', address=kakfj, aksjjf, 29837}
+2024-08-22 13:10:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='sjda', address=kakfj, aksjjf, 29837}
+2024-08-22 13:10:17 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='sjda', address=kakfj, aksjjf, 29837}
+2024-08-22 13:10:17 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='sjda', address=kakfj, aksjjf, 29837}
+2024-08-22 13:10:17 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 13:10:44 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 1
+2024-08-22 13:10:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 1
+2024-08-22 13:10:44 [main] INFO  com.example.Repository.EmployeeInMemoryRepository - This is the employee
+2024-08-22 13:10:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=1, empName='leela', deptName='sjda', address=kakfj, aksjjf, 29837}
+2024-08-22 13:10:44 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=1, empName='leela', deptName='sjda', address=kakfj, aksjjf, 29837}
+2024-08-22 13:10:44 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=1, empName='megha', deptName='kajhd', address=akjdh, jkdha, 2344}
+2024-08-22 13:10:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=1, empName='megha', deptName='kajhd', address=akjdh, jkdha, 2344}
+2024-08-22 13:10:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=1, empName='megha', deptName='kajhd', address=akjdh, jkdha, 2344}
+2024-08-22 13:10:44 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=1, empName='megha', deptName='kajhd', address=akjdh, jkdha, 2344}
+2024-08-22 13:10:44 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 13:11:10 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@3e8c3cb
+2024-08-22 13:11:48 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='girisha', deptName='kajhd', address=ajfhs, kjf, 2345}
+2024-08-22 13:11:48 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='girisha', deptName='kajhd', address=ajfhs, kjf, 2345}
+2024-08-22 13:11:48 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 13:11:48 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=5, empName='girisha', deptName='kajhd', address=ajfhs, kjf, 2345}
+2024-08-22 13:11:48 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=5, empName='girisha', deptName='kajhd', address=ajfhs, kjf, 2345}
+2024-08-22 13:11:48 [main] INFO  com.example.Main - Employee id 5:
+2024-08-22 13:51:10 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@54422e18
+2024-08-22 13:51:31 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='varshini', deptName='support', address=lkfj, kdfjw, 2342}
+2024-08-22 13:51:31 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='varshini', deptName='support', address=lkfj, kdfjw, 2342}
+2024-08-22 13:51:32 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-22 13:51:32 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=6, empName='varshini', deptName='support', address=lkfj, kdfjw, 2342}
+2024-08-22 13:51:32 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=6, empName='varshini', deptName='support', address=lkfj, kdfjw, 2342}
+2024-08-22 13:51:32 [main] INFO  com.example.Main - Employee id 6:
+2024-08-22 13:53:21 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@563f38c4
+2024-08-22 13:59:13 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeDBRepository@543295b0
+2024-08-22 13:59:44 [main] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 4
+2024-08-22 13:59:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 4
+2024-08-22 13:59:44 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee deleted successfully.
+2024-08-22 13:59:44 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 4
+2024-08-22 13:59:44 [main] INFO  com.example.Controller.EmployeeController - Employee with Id: 4 deleted successfully.
+2024-08-22 14:00:02 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 5
+2024-08-22 14:00:02 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 5
+2024-08-22 14:00:02 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=5, empName='girisha', deptName='kajhd', address=ajfhs, kjf, 2345}
+2024-08-22 14:00:02 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=5, empName='girisha', deptName='kajhd', address=ajfhs, kjf, 2345}
+2024-08-22 14:00:39 [main] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 5
+2024-08-22 14:00:39 [main] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 5
+2024-08-22 14:00:39 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=5, empName='girisha', deptName='kajhd', address=ajfhs, kjf, 2345}
+2024-08-22 14:00:39 [main] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=5, empName='girisha', deptName='kajhd', address=ajfhs, kjf, 2345}
+2024-08-22 14:00:39 [main] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=5, empName='roopa', deptName='development', address=kajfn, afn, 234123}
+2024-08-22 14:00:39 [main] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=5, empName='roopa', deptName='development', address=kajfn, afn, 234123}
+2024-08-22 14:00:39 [main] INFO  com.example.Repository.EmployeeDBRepository - Employee updated successfully.
+2024-08-22 14:00:39 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=5, empName='roopa', deptName='development', address=kajfn, afn, 234123}
+2024-08-22 14:00:39 [main] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=5, empName='roopa', deptName='development', address=kajfn, afn, 234123}
+2024-08-22 14:00:39 [main] INFO  com.example.Main - Employee id 5:
+2024-08-22 14:02:28 [main] INFO  com.example.Main - repository value: com.example.Repository.EmployeeFileRepository@543295b0
+2024-08-22 14:02:46 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='leela', deptName='jfksf', address=ljdfsl, djfkjh, 234134}
+2024-08-22 14:02:46 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='leela', deptName='jfksf', address=ljdfsl, djfkjh, 234134}
+2024-08-22 14:02:46 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 14:02:46 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 14:02:46 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+2024-08-22 14:02:46 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='leela', deptName='jfksf', address=ljdfsl, djfkjh, 234134}
+2024-08-22 14:02:46 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='leela', deptName='jfksf', address=ljdfsl, djfkjh, 234134}
+2024-08-22 14:02:46 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='leela', deptName='jfksf', address=ljdfsl, djfkjh, 234134}
+2024-08-22 14:02:46 [main] INFO  com.example.Main - Employee id 1:
+2024-08-22 14:03:11 [main] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='niha', deptName='jfh', address=kjfh, kjeh, 234134}
+2024-08-22 14:03:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='niha', deptName='jfh', address=kjfh, kjeh, 234134}
+2024-08-22 14:03:11 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=mystreet, ap, 293847}
+2024-08-22 14:03:11 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=dsjdfd, skdfj, 322454}
+2024-08-22 14:03:11 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='development', address=jksdfh, jdf, 293847}
+2024-08-22 14:03:11 [main] INFO  com.example.Repository.EmployeeFileRepository - Reading line: Employee{empId=1, empName='leela', deptName='jfksf', address=ljdfsl, djfkjh, 234134}
+2024-08-22 14:03:11 [main] INFO  com.example.Repository.EmployeeFileRepository - Employee added successfully: Employee{empId=1, empName='niha', deptName='jfh', address=kjfh, kjeh, 234134}
+2024-08-22 14:03:11 [main] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=1, empName='niha', deptName='jfh', address=kjfh, kjeh, 234134}
+2024-08-22 14:03:11 [main] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=1, empName='niha', deptName='jfh', address=kjfh, kjeh, 234134}
+2024-08-22 14:03:11 [main] INFO  com.example.Main - Employee id 1:
+2024-08-23 13:11:18 [http-nio-8081-exec-2] INFO  com.example.Controller.EmployeeController - Adding employee: null
+2024-08-23 13:11:18 [http-nio-8081-exec-2] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: null
+2024-08-23 13:12:40 [http-nio-8081-exec-4] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=0, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 13:12:40 [http-nio-8081-exec-4] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=0, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 13:12:40 [http-nio-8081-exec-4] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-23 13:12:40 [http-nio-8081-exec-4] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=7, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 13:12:40 [http-nio-8081-exec-4] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=7, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 14:16:54 [http-nio-8081-exec-2] INFO  com.example.Controller.EmployeeController - Deleting employee with Id: 1
+2024-08-23 14:16:54 [http-nio-8081-exec-2] INFO  com.example.Service.EmployeeServiceImpl - Deleting employee with ID: 1
+2024-08-23 14:16:55 [http-nio-8081-exec-2] INFO  com.example.Repository.EmployeeDBRepository - Employee deleted successfully.
+2024-08-23 14:16:55 [http-nio-8081-exec-2] INFO  com.example.Service.EmployeeServiceImpl - Employee deleted successfully with ID: 1
+2024-08-23 14:16:55 [http-nio-8081-exec-2] INFO  com.example.Controller.EmployeeController - Employee with Id: 1 deleted successfully.
+2024-08-23 14:30:39 [http-nio-8081-exec-1] INFO  com.example.Controller.EmployeeController - Updating employee : Employee{empId=0, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 14:30:39 [http-nio-8081-exec-1] INFO  com.example.Service.EmployeeServiceImpl - Updating employee: Employee{empId=0, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 14:30:40 [http-nio-8081-exec-1] INFO  com.example.Repository.EmployeeDBRepository - Employee updated successfully.
+2024-08-23 14:30:40 [http-nio-8081-exec-1] INFO  com.example.Service.EmployeeServiceImpl - Employee updated successfully: Employee{empId=0, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 14:30:40 [http-nio-8081-exec-1] INFO  com.example.Controller.EmployeeController - Updated successfully employee : Employee{empId=0, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 14:30:40 [http-nio-8081-exec-1] INFO  com.example.Controller.EmployeeController - Fetching employee with Id: 3
+2024-08-23 14:30:40 [http-nio-8081-exec-1] INFO  com.example.Service.EmployeeServiceImpl - Fetching employee with ID: 3
+2024-08-23 14:30:40 [http-nio-8081-exec-1] INFO  com.example.Service.EmployeeServiceImpl - Employee found: Employee{empId=3, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 14:30:40 [http-nio-8081-exec-1] INFO  com.example.Controller.EmployeeController - Employee found: Employee{empId=3, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 16:36:17 [http-nio-8081-exec-1] INFO  com.example.Controller.EmployeeController - Adding employee: Employee{empId=3, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 16:36:17 [http-nio-8081-exec-1] INFO  com.example.Service.EmployeeServiceImpl - Adding employee: Employee{empId=3, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 16:36:19 [http-nio-8081-exec-1] INFO  com.example.Repository.EmployeeDBRepository - Employee added successfully.
+2024-08-23 16:36:19 [http-nio-8081-exec-1] INFO  com.example.Service.EmployeeServiceImpl - Employee added successfully: Employee{empId=8, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
+2024-08-23 16:36:19 [http-nio-8081-exec-1] INFO  com.example.Controller.EmployeeController - Employee added successfully: Employee{empId=8, empName='suma', deptName='development', address=ajdhahf, alksd, 2937438}
